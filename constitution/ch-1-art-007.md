@@ -1,0 +1,2 @@
+# Chapter I, Article 7. [Government for the people; they may change it]
+That government is, or ought to be, instituted for the common benefit, protection, and security of the people, nation, or community, and not for the particular emolument or advantage of any single person, family, or set of persons, who are a part only of that community; and that the community hath an indubitable, unalienable, and indefeasible right, to reform or alter government, in such manner as shall be, by that community, judged most conducive to the public weal.

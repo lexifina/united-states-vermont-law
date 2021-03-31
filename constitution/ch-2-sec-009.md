@@ -1,0 +1,2 @@
+# Chapter II, Section 9. [Journals; yeas and nays]
+The votes and proceedings of the General Assembly shall be printed (when one-third of the members of either House think it necessary) as soon as convenient after the end of the session, with the yeas and nays of the House of Representatives on any question when required by five members, and of the Senate when required by one Senator, (except where the votes shall be taken by ballot), in which case every member of either House shall have a right to insert the reasons of the member's vote upon the minutes.

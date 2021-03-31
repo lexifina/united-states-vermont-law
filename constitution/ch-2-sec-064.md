@@ -1,0 +1,2 @@
+# Chapter II, Section 64. [Punishment at hard labor, when]
+To deter more effectually from the commission of crimes, by continued visible punishments of long duration, and to make sanguinary punishments less necessary, means ought to be provided for punishing by hard labor, those who shall be convicted of crimes not capital, whereby the criminal shall be employed for the benefit of the public, or for the reparation of injuries done to private persons: and all persons at proper times ought to be permitted to see them at their labor.

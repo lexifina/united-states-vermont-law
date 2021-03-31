@@ -1,0 +1,2 @@
+# Chapter I, Article 1. [All persons born free; their natural rights; slavery and indentured servitude prohibited]
+That all persons are born equally free and independent, and have certain natural, inherent, and unalienable rights, amongst which are the enjoying and defending life and liberty, acquiring, possessing and protecting property, and pursuing and obtaining happiness and safety; therefore slavery and indentured servitude in any form are prohibited.

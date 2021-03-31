@@ -1,0 +1,2 @@
+# Chapter II, Section 65. [Suicide's estate not forfeited; no deodand]
+The estates of such persons as may destroy their own lives, shall not, for that offence, be forfeited, but shall descend or ascend in the same manner as if such persons had died in a natural way. Nor shall any article which shall accidentally occasion the death of any person, be deemed a deodand, or in any wise forfeited on account of such misfortune.

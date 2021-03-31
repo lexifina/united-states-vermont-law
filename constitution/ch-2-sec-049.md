@@ -1,0 +1,2 @@
+# Chapter II, Section 49. [Term of Governor, Lieutenant-Governor, and Treasurer]
+The term of office of the Governor, Lieutenant-Governor and Treasurer of the State, respectively, shall commence when they shall be chosen and qualified, and shall continue for the term of two years, or until their successors shall be chosen and qualified, or to the adjournment of the session of the Legislature at which, by the Constitution and laws, their successors are required to be chosen, and not after such adjournment.

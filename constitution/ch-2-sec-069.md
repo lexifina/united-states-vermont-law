@@ -1,0 +1,2 @@
+# Chapter II, Section 69. [Charters, limit on right to grant]
+No charter of incorporation shall be granted, extended, changed or amended by special law, except for such municipal, charitable, educational, penal or reformatory corporations as are to be and remain under the patronage or control of the State; but the General Assembly shall provide by general laws for the organization of all corporations hereafter to be created. All general laws passed pursuant to this section may be altered from time to time or repealed.

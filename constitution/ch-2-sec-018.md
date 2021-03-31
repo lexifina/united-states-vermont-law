@@ -1,0 +1,3 @@
+# Chapter II, Section 18. [Senators; numbers; qualifications]
+The Senate shall be composed of thirty Senators to be of the senatorial district from which they are elected. The voters of each senatorial district established by law shall elect one or more Senators from that district, the number from each district to be established by the General Assembly.
+In establishing senatorial districts, which shall afford equality of representation, the General Assembly shall seek to maintain geographical compactness and contiguity and to adhere to boundaries of counties and other existing political subdivisions.

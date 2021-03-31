@@ -1,0 +1,8 @@
+# Chapter II, Section 40. [Excessive bail prohibited; prisoners bailable; imprisonment for debt prohibited]
+Excessive bail shall not be exacted for bailable offenses. All persons shall be bailable by sufficient sureties, except as follows:
+(1) A person accused of an offense punishable by death or life imprisonment may be held without bail when the evidence of guilt is great.
+(2) A person accused of a felony, an element of which involves an act of violence against another person, may be held without bail when the evidence of guilt is great and the court finds, based upon clear and convincing evidence, that the person's release poses a substantial threat of physical violence to any person and that no condition or combination of conditions of release will reasonably prevent the physical violence. A person held without bail prior to trial under this paragraph shall be entitled to review de novo by a single justice of the Supreme Court forthwith.
+(3) A person awaiting sentence, or sentenced pending appeal, may be held without bail for any offense.
+A person held without bail prior to trial shall be entitled to review of that determination by a panel of three Supreme Court Justices within seven days after bail is denied.
+Except in the case of an offense punishable by death or life imprisonment, if a person is held without bail prior to trial, the trial of the person shall be commenced not more than 60 days after bail is denied. If the trial is not commenced within 60 days and the delay is not attributable to the defense, the court shall immediately schedule a bail hearing and shall set bail for the person.
+No person shall be imprisoned for debt.

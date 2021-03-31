@@ -1,0 +1,2 @@
+# Chapter II, Section 43. [Biennial elections]
+The Governor, Lieutenant-Governor, Treasurer, Secretary of State, Auditor of Accounts, Senators, Town Representatives, Assistant Judges of the County Court, Sheriffs, High Bailiffs, State's Attorneys, Judges of Probate and Justices of the Peace, shall be elected biennially on the first Tuesday next after the first Monday of November, beginning in A.D. 1914.

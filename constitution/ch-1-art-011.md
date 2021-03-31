@@ -1,0 +1,2 @@
+# Chapter I, Article 11. [Search and seizure regulated]
+That the people have a right to hold themselves, their houses, papers, and possessions, free from search or seizure; and therefore warrants, without oath or affirmation first made, affording sufficient foundation for them, and whereby by any officer or messenger may be commanded or required to search suspected places, or to seize any person or persons, his, her or their property, not particularly described, are contrary to that right, and ought not to be granted.

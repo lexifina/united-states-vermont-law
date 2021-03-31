@@ -1,0 +1,2 @@
+# Chapter II, Section 25. [Security given by Treasurer and Sheriffs]
+The Treasurer of the State shall, before entering upon the duties of office, give sufficient security to the Secretary of State, in behalf of the State of Vermont, before the Governor of the State or one of the Justices of the Supreme Court. And Sheriffs, before entering upon the duties of their offices, shall give sufficient security in such manner and in such sums as shall be directed by the Legislature.

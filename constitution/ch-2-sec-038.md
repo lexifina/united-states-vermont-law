@@ -1,0 +1,2 @@
+# Chapter II, Section 38. [Jury trials]
+Trials of issues, proper for the cognizance of a Jury as established by law or by judicial rules adopted by the Supreme Court not inconsistent with law, in the Supreme Court, the Superior Court and other subordinate courts, shall be by Jury, except where parties otherwise agree; and great care ought to be taken to prevent corruption or partiality in the choice and return, or appointment of Juries.

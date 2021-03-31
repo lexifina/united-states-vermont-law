@@ -1,0 +1,2 @@
+# Chapter II, Section 32. [Filling judicial vacancies]
+The Governor, with the advice and consent of the Senate, shall fill a vacancy in the office of the Chief justice of the State, associate justice of the Supreme Court or judge of any other court, except the office of Assistant Judge and of Judge of Probate, from a list of nominees presented by a judicial nominating body established by the General Assembly having authority to apply reasonable standards of selection.

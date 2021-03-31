@@ -1,0 +1,2 @@
+# Chapter I, Article 4. [Remedy at law secured to all]
+Every person within this state ought to find a certain remedy, by having recourse to the laws, for all injuries or wrongs which one may receive in person, property or character; every person ought to obtain right and justice, freely, and without being obliged to purchase it; completely and without any denial; promptly and without delay; comformably to the laws.
