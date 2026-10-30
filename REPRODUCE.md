@@ -56,7 +56,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- 30, so pages were fetched one at a time, 31 seconds apart. That allows a few dozen pages, so only selected chapters are taken: Title 13 chapters 1, 11, 13, 23, 53, 55, 57 and 81; Title 27 chapters 1, 3 and 5; Title 11A chapters 1, 2, 3, 6, 7 and 8.
+- Only selected chapters are taken: Title 13 chapters 1, 11, 13, 23, 53, 55, 57 and 81; Title 27 chapters 1, 3 and 5; Title 11A chapters 1, 2, 3, 6, 7 and 8.
 - Vermont Statutes Online is, in its own words, "an unofficial copy of the Vermont Statutes Annotated that is provided as a convenience" and "includes the actions of the 2026 session of the General Assembly". It gives no day, so each statute act is one "oldest version available" version dated by the day before retrieval, 2026-10-29 (a retrieval-day noon commit would lie in the future).
 - The Constitution page states "as established July 9, 1793, and amended through March 31, 2021"; that is the version's date. Temporary provisions headed under no Article or Section number are left out of the units.
 - Sections whose heading or text is "[Repealed.]" or "[Reserved.]" are left out. The parenthetical history that ends each section ("(Amended 1983, No. 23, § 1; ...)") is kept in the text as the General Assembly prints it.
