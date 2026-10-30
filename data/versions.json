@@ -1,0 +1,61 @@
+{
+ "country": "US-VT",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of the State of Vermont (1793, amended through 31 March 2021)",
+   "url": "https://legislature.vermont.gov/statutes/constitution-of-the-state-of-vermont",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 98,
+     "source_url": "https://legislature.vermont.gov/statutes/constitution-of-the-state-of-vermont",
+     "sha256": "7661f9ff9f1f7186bba0743966d138281c1822d3fd02a94d1d0a6f8acc6e7559"
+    }
+   ]
+  },
+  {
+   "slug": "crimes",
+   "short": "13 V.S.A.",
+   "title": "Vermont Statutes Annotated, Title 13. Crimes and Criminal Procedure (selected chapters)",
+   "url": "https://legislature.vermont.gov/statutes/title/13",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 103,
+     "source_url": "https://legislature.vermont.gov/statutes/title/13",
+     "sha256": "9fb6bf01a8ca098da2f2ddb61c6ed32616d546a2359c93b59b3f0bd516ab0283"
+    }
+   ]
+  },
+  {
+   "slug": "property",
+   "short": "27 V.S.A.",
+   "title": "Vermont Statutes Annotated, Title 27. Property (selected chapters)",
+   "url": "https://legislature.vermont.gov/statutes/title/27",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 103,
+     "source_url": "https://legislature.vermont.gov/statutes/title/27",
+     "sha256": "a81f9bbcf36daa9dbae479d2b8bedbaf4f36bd3526e637c635668964e912eae8"
+    }
+   ]
+  },
+  {
+   "slug": "corporations",
+   "short": "11A V.S.A.",
+   "title": "Vermont Statutes Annotated, Title 11A. Business Corporations (selected chapters)",
+   "url": "https://legislature.vermont.gov/statutes/title/11A",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 97,
+     "source_url": "https://legislature.vermont.gov/statutes/title/11A",
+     "sha256": "1c4263270a080362719c04e09108cede4fb1c5842008e642d1f961865034fd7c"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+{
+  "path": "us-vt",
+  "code": "VT",
+  "name": "Vermont",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-vermont-law",
+  "build": "built: Constitution (amended through 2021-03-31) and selected chapters of Titles 13, 27 and 11A, one version each (2026 session, dated 2026-10-29)",
+  "register_date": "2026-10-30"
+}
