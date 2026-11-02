@@ -24,6 +24,7 @@
 | 19 V.S.A. § 10e | [sec-0010e.md](sec-0010e.md) | 0 |  |
 | 19 V.S.A. § 10f | [sec-0010f.md](sec-0010f.md) | 0 |  |
 | 19 V.S.A. § 10g | [sec-0010g.md](sec-0010g.md) | 0 |  |
+| 19 V.S.A. § 10h | [sec-0010h.md](sec-0010h.md) | 1 | 2027-01-01 |
 | 19 V.S.A. § 10i | [sec-0010i.md](sec-0010i.md) | 0 |  |
 | 19 V.S.A. § 10j | [sec-0010j.md](sec-0010j.md) | 0 |  |
 | 19 V.S.A. § 10k | [sec-0010k.md](sec-0010k.md) | 0 |  |
@@ -65,6 +66,7 @@
 | 19 V.S.A. § 34 | [sec-0034.md](sec-0034.md) | 0 |  |
 | 19 V.S.A. § 35 | [sec-0035.md](sec-0035.md) | 0 |  |
 | 19 V.S.A. § 37 | [sec-0037.md](sec-0037.md) | 0 |  |
+| 19 V.S.A. § 38 | [sec-0038.md](sec-0038.md) | 1 | 2027-01-01 |
 | 19 V.S.A. § 39 | [sec-0039.md](sec-0039.md) | 0 |  |
 | 19 V.S.A. § 42 | [sec-0042.md](sec-0042.md) | 0 |  |
 | 19 V.S.A. § 43 | [sec-0043.md](sec-0043.md) | 0 |  |
