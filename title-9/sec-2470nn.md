@@ -1,0 +1,8 @@
+# § 2470nn. Violations
+(a) A person who violates this subchapter commits an unfair and deceptive act in trade and commerce in violation of section 2453 of this title.
+(b) The Attorney General has the same authority to make rules, conduct civil investigations, enter into assurances of discontinuance, and bring civil actions as is provided under subchapter 1 of this chapter.
+(c) It is an unfair and deceptive act and practice in commerce for any person to provide substantial assistance to the seller of an add-on discount membership program that has engaged or is engaging in an unfair or deceptive act or practice in commerce, when the person or the person's authorized agent:
+(1) receives notice from a regulatory, law enforcement, or similar governmental authority that the seller of the add-on discount membership program is in violation of this subchapter;
+(2) knows from information received or in its possession that the seller of the add-on discount membership program is in violation of this subchapter; or
+(3) consciously avoids knowing that the seller of the add-on discount membership program is in violation of this subchapter.
+(d) Subject to section 2452 of this title, a person who provides only incidental assistance, which does not further the sale of an add-on discount membership program, to the seller of the program, or who does not receive a benefit from providing assistance to the seller of an add-on discount membership, shall not be liable under this section unless the person receives notice, knows, or consciously avoids knowing, pursuant to subdivision (c)(1), (2), or (3) of this section, that an add-on discount membership program is in violation of this chapter. (Added 2015, No. 128 (Adj. Sess.), § E.2.)
