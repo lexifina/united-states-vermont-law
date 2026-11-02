@@ -1,0 +1,14 @@
+# § 280bb. Vermont Entrepreneurial Lending Program
+(a) There is created the Vermont Entrepreneurial Lending Program to be administered by the Vermont Economic Development Authority. The Program shall seek to meet the working capital and capital-asset financing needs of Vermont-based businesses in seed, start-up, and growth stages. The Program shall specifically seek to fulfill capital requirement needs that are unmet in Vermont, including:
+(1) loans to manufacturing businesses and software developers with innovative products that typically reflect long-term, organic growth;
+(2) loans up to $1,000,000.00 in growth-stage companies that do not meet the underwriting criteria of other public and private entrepreneurial financing sources;
+(3) loans to businesses that are unable to access adequate capital resources because the primary assets of these businesses are typically intellectual property or similar nontangible assets; and
+(4) loans to advanced manufacturers and other Vermont businesses for product development and intellectual property design.
+(b) The Authority shall adopt regulations, policies, and procedures for the Program as are necessary to increase the amount of investment funds available to Vermont businesses whose capital requirements are not being met by conventional lending sources.
+(c) When considering entrepreneurial lending through the Program, the Authority shall give additional consideration and weight to an application of a business whose business model and practices will have a demonstrable effect in achieving other public policy goals of the State, including:
+(1) The business will create jobs in strategic sectors such as the knowledge-based economy, renewable energy, advanced manufacturing, wood products manufacturing, and value-added agricultural processing.
+(2) The business is located in a designated downtown, village center, growth center, industrial park, or other significant geographic location recognized by the State.
+(3) The business adopts energy and thermal efficiency practices in its operations or otherwise operates in a way that reflects a commitment to green energy principles.
+(4) The business will create jobs that pay a livable wage and significant benefits to Vermont employees.
+(5) The business will create environmental benefits or will manufacture environmentally responsible products.
+(d) The Authority shall include provisions in the terms of a loan made under the Program to ensure that a loan recipient shall maintain operations within the State for a minimum of five years from the date on which the recipient receives the loan funds from the Authority or shall otherwise be required to repay the outstanding funds in full. (Added 2009, No. 54, § 28, eff. June 1, 2009; amended 2013, No. 179 (Adj. Sess.), § F.100; 2013, No. 199 (Adj. Sess.), § 4; 2015, No. 51, § E.1, eff. June 3, 2015.)

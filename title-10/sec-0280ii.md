@@ -1,0 +1,9 @@
+# § 280ii. Vermont Agricultural Credit Program
+(a) The Vermont Agricultural Credit Program provides an alternative source of sound and constructive credit to farmers and forest products businesses who are not having their credit needs fully met by conventional agricultural credit sources at reasonable rates and terms; or, in the alternative, the granting of the loan shall serve as a substantial inducement for the establishment or expansion of an eligible agricultural or forestry project within the State. The Program is intended to meet, either in whole or in part, the credit needs of eligible agricultural facilities and farm and forest operations in fulfillment of one or more of the purposes listed in this subsection by making direct loans and participating in loans made by other agricultural credit providers:
+(1) to encourage diversification, cooperative farming, and the development of innovative techniques for farming and forest products businesses;
+(2) to increase energy efficiency and reduce energy consumption in agricultural facilities, including the construction of water pollution control facilities that implement best management practices for farm waste abatement pursuant to 6 V.S.A. chapter 215;
+(3) to encourage innovative and diversified processing, marketing, and distribution of Vermont agricultural products;
+(4) to assist beginning farmers to start new farms and new agricultural facilities to commence or strengthen their operations;
+(5) to assist or financially strengthen existing farms; and
+(6) to refinance loans incurred by eligible borrowers for any of the purposes enumerated in subdivisions (1)-(5) of this subsection.
+(b) No borrower shall be approved for a loan from the Authority that would result in the aggregate principal balances outstanding of all loans to that borrower exceeding $5,000,000.00. (Added 2025, No. 178 (Adj. Sess.), § 9, eff. July 1, 2026.)

@@ -1,0 +1,3 @@
+# § 280jj. General powers
+(a) The Authority shall have the powers necessary to carry out the purposes and provisions of this Program and subchapter, including those general powers conferred on the Authority in section 216 of this title.
+(b) The Authority shall have the powers necessary to dissolve the Vermont Agricultural Credit Corporation in accordance with 11B V.S.A. chapter 14. Upon dissolution of the Vermont Agricultural Credit Corporation, title to all property owned by the Vermont Agricultural Credit Corporation shall vest in the Authority. (Added 2025, No. 178 (Adj. Sess.), § 9, eff. July 1, 2026.)
