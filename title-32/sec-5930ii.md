@@ -1,0 +1,5 @@
+# § 5930ii. Research and development tax credit
+(a) A taxpayer of this State shall be eligible for a credit against the tax imposed under this chapter in an amount equal to 27 percent of the amount of the federal tax credit allowed in the taxable year for eligible research and development expenditures under 26 U.S.C. § 41(a) that are made within this State.
+(a) A taxpayer of this State shall be eligible for a credit against the tax imposed under this chapter in an amount equal to 75 percent of the amount of the federal tax credit allowed in the taxable year for eligible research and development expenditures under 26 U.S.C. § 41(a) that are made within this State.
+(b) Any unused credit available under subsection (a) of this section may be carried forward for up to 10 years.
+(c) Each year, on or before January 15, the Department of Taxes shall publish a list containing the names of the taxpayers who have claimed a credit under this section during the most recent completed calendar year. (Added 2009, No. 2 (Sp. Sess.), § 22; amended 2013, No. 174 (Adj. Sess.), § 37, eff. Jan. 1, 2014; 2025, No. 164 (Adj. Sess.), § 58, eff. January 1, 2027.)
