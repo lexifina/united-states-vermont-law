@@ -26,7 +26,7 @@ That is all the law this repository holds today. The other chapters and titles, 
 
 ## Where the text comes from
 
-The Vermont General Assembly publishes the statutes and the Constitution at <https://legislature.vermont.gov/statutes>. Its statute pages describe themselves as "an unofficial copy of the Vermont Statutes Annotated that is provided as a convenience" and say they include the actions of the 2026 session. The site's robots.txt states a 30-second crawl delay, so pages were fetched one at a time, 31 seconds apart, which is why only selected chapters are here. The page footers state no reuse terms.
+The Vermont General Assembly publishes the statutes and the Constitution at <https://legislature.vermont.gov/statutes>. Its statute pages describe themselves as "an unofficial copy of the Vermont Statutes Annotated that is provided as a convenience" and say they include the actions of the 2026 session. Only selected chapters are here. The page footers state no reuse terms.
 
 ## Dates
 
@@ -53,7 +53,7 @@ Annotated, as published by the Vermont General Assembly on Vermont Statutes Onli
 The pages state no reuse terms. The General Assembly describes the statute pages as "an unofficial copy of the Vermont Statutes Annotated
 that is provided as a convenience". A constitution and statutes are edicts of government that copyright does not protect
 (Georgia v. Public.Resource.Org, Inc., 590 U.S. 255 (2020)). The text is republished here, unaltered except for the changes below, with credit
-to the Vermont General Assembly as its publisher. The site's robots.txt states a crawl delay of 30 seconds, which was obeyed.
+to the Vermont General Assembly as its publisher.
 
 Changes made by Lexifina: one Markdown file per provision, one paragraph per line, normalised spaces, quotation marks and hyphens;
 repealed and reserved sections left out. The wording of the law was not changed. The Vermont General Assembly does not endorse this

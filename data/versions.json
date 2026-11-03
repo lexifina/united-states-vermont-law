@@ -56,6 +56,48 @@
      "sha256": "1c4263270a080362719c04e09108cede4fb1c5842008e642d1f961865034fd7c"
     }
    ]
+  },
+  {
+   "slug": "title-1",
+   "short": "1 V.S.A.",
+   "title": "Vermont Statutes Annotated, Title 1. General Provisions",
+   "url": "https://legislature.vermont.gov/statutes/title/01",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 171,
+     "source_url": "https://legislature.vermont.gov/statutes/title/01",
+     "sha256": "f88068bedf9a42990a984afcbefec0bf542e3441b60ec0b0089b1249c5f48008"
+    }
+   ]
+  },
+  {
+   "slug": "title-2",
+   "short": "2 V.S.A.",
+   "title": "Vermont Statutes Annotated, Title 2. Legislature",
+   "url": "https://legislature.vermont.gov/statutes/title/02",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 94,
+     "source_url": "https://legislature.vermont.gov/statutes/title/02",
+     "sha256": "50b1b3c8b7eafd2e01a576750bac292b37136fe7cbe22962a7058deb0698457a"
+    }
+   ]
+  },
+  {
+   "slug": "title-3",
+   "short": "3 V.S.A.",
+   "title": "Vermont Statutes Annotated, Title 3. Executive",
+   "url": "https://legislature.vermont.gov/statutes/title/03",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 553,
+     "source_url": "https://legislature.vermont.gov/statutes/title/03",
+     "sha256": "06405f3587a12ef0899e73e6e02cc4ab1e9db79bea5f1e2c81923cdde3d76463"
+    }
+   ]
   }
  ]
 }
