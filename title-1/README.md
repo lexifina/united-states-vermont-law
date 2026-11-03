@@ -1,6 +1,6 @@
 # Vermont Statutes Annotated, Title 1. General Provisions
 
-1 V.S.A. · 1 versions, from 2026-11-02 (latest in force: 2026-11-02) · <https://legislature.vermont.gov/statutes/title/01>
+1 V.S.A. · 2 versions, from 2026-11-02 (latest in force: 2026-11-02) · <https://legislature.vermont.gov/statutes/title/01>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -93,7 +93,6 @@
 | 1 V.S.A. § 372 | [sec-0372.md](sec-0372.md) | 0 |  |
 | 1 V.S.A. § 373 | [sec-0373.md](sec-0373.md) | 0 |  |
 | 1 V.S.A. § 374 | [sec-0374.md](sec-0374.md) | 0 |  |
-| 1 V.S.A. § 375 | [sec-0375.md](sec-0375.md) | 0 |  |
 | 1 V.S.A. § 376 | [sec-0376.md](sec-0376.md) | 0 |  |
 | 1 V.S.A. § 377 | [sec-0377.md](sec-0377.md) | 0 |  |
 | 1 V.S.A. § 378 | [sec-0378.md](sec-0378.md) | 0 |  |
@@ -175,3 +174,16 @@
 | 1 V.S.A. § 854 | [sec-0854.md](sec-0854.md) | 0 |  |
 | 1 V.S.A. § 855 | [sec-0855.md](sec-0855.md) | 0 |  |
 | 1 V.S.A. § 856 | [sec-0856.md](sec-0856.md) | 0 |  |
+| 1 V.S.A. § 901 | [sec-0901.md](sec-0901.md) | 1 | 2027-05-01 |
+| 1 V.S.A. § 902 | [sec-0902.md](sec-0902.md) | 1 | 2027-05-01 |
+| 1 V.S.A. § 903 | [sec-0903.md](sec-0903.md) | 1 | 2027-05-01 |
+| 1 V.S.A. § 904 | [sec-0904.md](sec-0904.md) | 1 | 2027-05-01 |
+| 1 V.S.A. § 905 | [sec-0905.md](sec-0905.md) | 1 | 2027-05-01 |
+| 1 V.S.A. § 905a | [sec-0905a.md](sec-0905a.md) | 1 | 2027-05-01 |
+| 1 V.S.A. § 906 | [sec-0906.md](sec-0906.md) | 1 | 2027-05-01 |
+| 1 V.S.A. § 907 | [sec-0907.md](sec-0907.md) | 1 | 2027-05-01 |
+| 1 V.S.A. § 908 | [sec-0908.md](sec-0908.md) | 1 | 2027-05-01 |
+| 1 V.S.A. § 909 | [sec-0909.md](sec-0909.md) | 1 | 2027-05-01 |
+| 1 V.S.A. § 910 | [sec-0910.md](sec-0910.md) | 1 | 2027-05-01 |
+| 1 V.S.A. § 911 | [sec-0911.md](sec-0911.md) | 1 | 2027-05-01 |
+| 1 V.S.A. § 912 | [sec-0912.md](sec-0912.md) | 1 | 2027-05-01 |

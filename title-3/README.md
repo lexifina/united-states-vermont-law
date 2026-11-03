@@ -1,6 +1,6 @@
 # Vermont Statutes Annotated, Title 3. Executive
 
-3 V.S.A. · 1 versions, from 2026-11-02 (latest in force: 2026-11-02) · <https://legislature.vermont.gov/statutes/title/03>
+3 V.S.A. · 5 versions, from 2026-11-02 (latest in force: 2026-11-02) · <https://legislature.vermont.gov/statutes/title/03>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -123,7 +123,6 @@
 | 3 V.S.A. § 264 | [sec-0264.md](sec-0264.md) | 0 |  |
 | 3 V.S.A. § 265 | [sec-0265.md](sec-0265.md) | 0 |  |
 | 3 V.S.A. § 267 | [sec-0267.md](sec-0267.md) | 0 |  |
-| 3 V.S.A. § 268 | [sec-0268.md](sec-0268.md) | 0 |  |
 | 3 V.S.A. § 309 | [sec-0309.md](sec-0309.md) | 0 |  |
 | 3 V.S.A. § 309a | [sec-0309a.md](sec-0309a.md) | 0 |  |
 | 3 V.S.A. § 310 | [sec-0310.md](sec-0310.md) | 0 |  |
@@ -275,7 +274,7 @@
 | 3 V.S.A. § 846 | [sec-0846.md](sec-0846.md) | 0 |  |
 | 3 V.S.A. § 847 | [sec-0847.md](sec-0847.md) | 0 |  |
 | 3 V.S.A. § 848 | [sec-0848.md](sec-0848.md) | 0 |  |
-| 3 V.S.A. § 850 | [sec-0850.md](sec-0850.md) | 0 |  |
+| 3 V.S.A. § 850 | [sec-0850.md](sec-0850.md) | 1 | 2029-01-31 |
 | 3 V.S.A. § 901 | [sec-0901.md](sec-0901.md) | 0 |  |
 | 3 V.S.A. § 902 | [sec-0902.md](sec-0902.md) | 0 |  |
 | 3 V.S.A. § 903 | [sec-0903.md](sec-0903.md) | 0 |  |
@@ -372,11 +371,6 @@
 | 3 V.S.A. § 1224 | [sec-1224.md](sec-1224.md) | 0 |  |
 | 3 V.S.A. § 1225 | [sec-1225.md](sec-1225.md) | 0 |  |
 | 3 V.S.A. § 1226 | [sec-1226.md](sec-1226.md) | 0 |  |
-| 3 V.S.A. § 1227 | [sec-1227.md](sec-1227.md) | 0 |  |
-| 3 V.S.A. § 1228 | [sec-1228.md](sec-1228.md) | 0 |  |
-| 3 V.S.A. § 1229 | [sec-1229.md](sec-1229.md) | 0 |  |
-| 3 V.S.A. § 1230 | [sec-1230.md](sec-1230.md) | 0 |  |
-| 3 V.S.A. § 1231 | [sec-1231.md](sec-1231.md) | 0 |  |
 | 3 V.S.A. § 2001 | [sec-2001.md](sec-2001.md) | 0 |  |
 | 3 V.S.A. § 2002 | [sec-2002.md](sec-2002.md) | 0 |  |
 | 3 V.S.A. § 2003 | [sec-2003.md](sec-2003.md) | 0 |  |
@@ -394,8 +388,6 @@
 | 3 V.S.A. § 2204 | [sec-2204.md](sec-2204.md) | 0 |  |
 | 3 V.S.A. § 2221 | [sec-2221.md](sec-2221.md) | 0 |  |
 | 3 V.S.A. § 2222 | [sec-2222.md](sec-2222.md) | 0 |  |
-| 3 V.S.A. § 2222d | [sec-2222d.md](sec-2222d.md) | 0 |  |
-| 3 V.S.A. § 2222d | [sec-2222d-dup2.md](sec-2222d-dup2.md) | 0 |  |
 | 3 V.S.A. § 2223 | [sec-2223.md](sec-2223.md) | 0 |  |
 | 3 V.S.A. § 2224 | [sec-2224.md](sec-2224.md) | 0 |  |
 | 3 V.S.A. § 2226 | [sec-2226.md](sec-2226.md) | 0 |  |
@@ -545,10 +537,11 @@
 | 3 V.S.A. § 5011 | [sec-5011.md](sec-5011.md) | 0 |  |
 | 3 V.S.A. § 5012 | [sec-5012.md](sec-5012.md) | 0 |  |
 | 3 V.S.A. § 5013 | [sec-5013.md](sec-5013.md) | 0 |  |
-| 3 V.S.A. § 5014 | [sec-5014.md](sec-5014.md) | 0 |  |
+| 3 V.S.A. § 5014 | [sec-5014.md](sec-5014.md) | 1 | 2027-06-30 |
 | 3 V.S.A. § 5015 | [sec-5015.md](sec-5015.md) | 0 |  |
 | 3 V.S.A. § 5021 | [sec-5021.md](sec-5021.md) | 0 |  |
 | 3 V.S.A. § 5022 | [sec-5022.md](sec-5022.md) | 0 |  |
+| 3 V.S.A. § 5023 | [sec-5023.md](sec-5023.md) | 1 | 2030-06-30 |
 | 3 V.S.A. § 5025 | [sec-5025.md](sec-5025.md) | 0 |  |
 | 3 V.S.A. § 6001 | [sec-6001.md](sec-6001.md) | 0 |  |
 | 3 V.S.A. § 6002 | [sec-6002.md](sec-6002.md) | 0 |  |
