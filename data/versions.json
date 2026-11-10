@@ -70,7 +70,7 @@
   {
    "slug": "corporations",
    "short": "11A V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 11A. Business Corporations (selected chapters)",
+   "title": "Vermont Statutes Annotated, Title 11A. Business Corporations",
    "url": "https://legislature.vermont.gov/statutes/title/11A",
    "versions": [
     {
@@ -78,6 +78,12 @@
      "units": 97,
      "source_url": "https://legislature.vermont.gov/statutes/title/11A",
      "sha256": "1c4263270a080362719c04e09108cede4fb1c5842008e642d1f961865034fd7c"
+    },
+    {
+     "from": "2026-11-02",
+     "units": 17,
+     "source_url": "https://legislature.vermont.gov/statutes/title/11A",
+     "sha256": "c1b1d97f3abf4b0a7ba1341c9d07265ee5f1723e08aa88209fc29c4fc42e10af"
     }
    ]
   },
@@ -386,6 +392,20 @@
    ]
   },
   {
+   "slug": "title-11b",
+   "short": "11B V.S.A.",
+   "title": "Vermont Statutes Annotated, Title 11B. Nonprofit Corporations",
+   "url": "https://legislature.vermont.gov/statutes/title/11B",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 16,
+     "source_url": "https://legislature.vermont.gov/statutes/title/11B",
+     "sha256": "1eaa9a0c13ca13b946dbe51be7263181865b1900ca32c260f4e87be855afbd65"
+    }
+   ]
+  },
+  {
    "slug": "title-11c",
    "short": "11C V.S.A.",
    "title": "Vermont Statutes Annotated, Title 11C. Mutual Benefit Enterprises",
@@ -504,6 +524,32 @@
    ]
   },
   {
+   "slug": "title-16",
+   "short": "16 V.S.A.",
+   "title": "Vermont Statutes Annotated, Title 16. Education",
+   "url": "https://legislature.vermont.gov/statutes/title/16",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 677,
+     "source_url": "https://legislature.vermont.gov/statutes/title/16",
+     "sha256": "e82efa0929e3dfff1c6c3b78476db9f3149bfe24b91e6b614dafef3fb629a31b"
+    },
+    {
+     "from": "2027-06-30",
+     "units": 676,
+     "source_url": "https://legislature.vermont.gov/statutes/title/16",
+     "sha256": "e82efa0929e3dfff1c6c3b78476db9f3149bfe24b91e6b614dafef3fb629a31b"
+    },
+    {
+     "from": "2029-06-30",
+     "units": 675,
+     "source_url": "https://legislature.vermont.gov/statutes/title/16",
+     "sha256": "e82efa0929e3dfff1c6c3b78476db9f3149bfe24b91e6b614dafef3fb629a31b"
+    }
+   ]
+  },
+  {
    "slug": "title-16-appendix",
    "short": "16 V.S.A. App.",
    "title": "Vermont Statutes Annotated, Title 16 Appendix. Appendix",
@@ -528,6 +574,50 @@
      "units": 362,
      "source_url": "https://legislature.vermont.gov/statutes/title/17",
      "sha256": "ff24ae2b6b344f961f77c85dca89485fd082b6b052557ccc8d2465fe42a5725c"
+    }
+   ]
+  },
+  {
+   "slug": "title-18",
+   "short": "18 V.S.A.",
+   "title": "Vermont Statutes Annotated, Title 18. Health",
+   "url": "https://legislature.vermont.gov/statutes/title/18",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1088,
+     "source_url": "https://legislature.vermont.gov/statutes/title/18",
+     "sha256": "444c5572ae4f1f6fd0a951f172b0da5701907c4e33ea3348289e3d597f091610"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 1089,
+     "source_url": "https://legislature.vermont.gov/statutes/title/18",
+     "sha256": "444c5572ae4f1f6fd0a951f172b0da5701907c4e33ea3348289e3d597f091610"
+    },
+    {
+     "from": "2029-07-01",
+     "units": 1084,
+     "source_url": "https://legislature.vermont.gov/statutes/title/18",
+     "sha256": "444c5572ae4f1f6fd0a951f172b0da5701907c4e33ea3348289e3d597f091610"
+    },
+    {
+     "from": "2030-01-01",
+     "units": 1081,
+     "source_url": "https://legislature.vermont.gov/statutes/title/18",
+     "sha256": "444c5572ae4f1f6fd0a951f172b0da5701907c4e33ea3348289e3d597f091610"
+    },
+    {
+     "from": "2031-01-01",
+     "units": 1080,
+     "source_url": "https://legislature.vermont.gov/statutes/title/18",
+     "sha256": "444c5572ae4f1f6fd0a951f172b0da5701907c4e33ea3348289e3d597f091610"
+    },
+    {
+     "from": "2031-07-01",
+     "units": 1079,
+     "source_url": "https://legislature.vermont.gov/statutes/title/18",
+     "sha256": "444c5572ae4f1f6fd0a951f172b0da5701907c4e33ea3348289e3d597f091610"
     }
    ]
   },
@@ -652,6 +742,20 @@
    ]
   },
   {
+   "slug": "title-24-appendix",
+   "short": "24 V.S.A. App.",
+   "title": "Vermont Statutes Annotated, Title 24 Appendix. MUNICIPAL CHARTERS",
+   "url": "https://legislature.vermont.gov/statutes/title/24APPENDIX",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 3215,
+     "source_url": "https://legislature.vermont.gov/statutes/title/24APPENDIX",
+     "sha256": "3b396e2d21a92e45b0ac03bc1229397be19dc53db9356af11c275ef0d1dbe88c"
+    }
+   ]
+  },
+  {
    "slug": "title-25",
    "short": "25 V.S.A.",
    "title": "Vermont Statutes Annotated, Title 25. Navigation and Waters",
@@ -662,6 +766,38 @@
      "units": 12,
      "source_url": "https://legislature.vermont.gov/statutes/title/25",
      "sha256": "9f5de8d3a152107187630feabc4d64a004035e0ae008f8dcdbd4199d0bbb4dc3"
+    }
+   ]
+  },
+  {
+   "slug": "title-26",
+   "short": "26 V.S.A.",
+   "title": "Vermont Statutes Annotated, Title 26. Professions and Occupations",
+   "url": "https://legislature.vermont.gov/statutes/title/26",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1027,
+     "source_url": "https://legislature.vermont.gov/statutes/title/26",
+     "sha256": "e767e329ae6cbbc168f689259e9a7e9d15dc0f1992a2ed2ced5cb1bff883c553"
+    },
+    {
+     "from": "2027-07-01",
+     "units": 1035,
+     "source_url": "https://legislature.vermont.gov/statutes/title/26",
+     "sha256": "e767e329ae6cbbc168f689259e9a7e9d15dc0f1992a2ed2ced5cb1bff883c553"
+    },
+    {
+     "from": "2028-07-01",
+     "units": 1037,
+     "source_url": "https://legislature.vermont.gov/statutes/title/26",
+     "sha256": "e767e329ae6cbbc168f689259e9a7e9d15dc0f1992a2ed2ced5cb1bff883c553"
+    },
+    {
+     "from": "2029-07-01",
+     "units": 1038,
+     "source_url": "https://legislature.vermont.gov/statutes/title/26",
+     "sha256": "e767e329ae6cbbc168f689259e9a7e9d15dc0f1992a2ed2ced5cb1bff883c553"
     }
    ]
   },
