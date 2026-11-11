@@ -4,6 +4,6 @@
   "name": "Vermont",
   "level": "state",
   "repo": "https://github.com/lexifina/united-states-vermont-law",
-  "build": "built: Constitution (amended through 2021-03-31) and selected chapters of Titles 13, 27 and 11A, one version each (2026 session, dated 2026-10-29)",
+  "build": "built: Constitution and all 46 Vermont Statutes titles and appendices as current text; earlier as-enacted editions of Titles 11C (2012), 14A (2009), 15B (2015), and 15C (2018)",
   "register_date": "2026-10-30"
 }
