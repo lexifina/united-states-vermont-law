@@ -63,7 +63,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-32` | Vermont Statutes Annotated, Title 32. Taxation and Finance | 8 | 2026-11-02 to 2037-07-01 |
 | `title-33` | Vermont Statutes Annotated, Title 33. Human Services | 4 | 2026-11-02 to 2028-10-01 |
 
-The build made 65 commits:
+The build made 80 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -87,7 +87,7 @@ When a law gives no date of its own, the default rule applies: 1 V.S.A. section 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `f269e9d08ac0616d3f27fccf7e3bd3081f39d0d4998087971f2e068bf7b622a1` (115168318 bytes).
+- Corpus: sha256 `7b2e65a7264c01f3873f7a0894fdb055b6d1a6e6c472259a4c546aa719491e8a` (112280788 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

@@ -129,7 +129,7 @@
    "versions": [
     {
      "from": "2026-11-02",
-     "units": 546,
+     "units": 547,
      "source_url": "https://legislature.vermont.gov/statutes/title/03",
      "sha256": "06405f3587a12ef0899e73e6e02cc4ab1e9db79bea5f1e2c81923cdde3d76463"
     },
@@ -181,7 +181,7 @@
    "versions": [
     {
      "from": "2026-11-02",
-     "units": 126,
+     "units": 127,
      "source_url": "https://legislature.vermont.gov/statutes/title/04",
      "sha256": "018eb1d0b628e6eda45ce83aef4ab8b8cbf9755f21c4ce9b20530f4e7b9ecbe0"
     }
@@ -333,7 +333,7 @@
    "versions": [
     {
      "from": "2026-11-02",
-     "units": 1326,
+     "units": 1330,
      "source_url": "https://legislature.vermont.gov/statutes/title/10",
      "sha256": "6372c5b0775f84b1d6c8f4404887bee79e8fe7e78df79ff96d02d4011d59a2a0"
     },
@@ -433,7 +433,7 @@
    "versions": [
     {
      "from": "2026-11-02",
-     "units": 753,
+     "units": 755,
      "source_url": "https://legislature.vermont.gov/statutes/title/12",
      "sha256": "3b37181004443ef228786dc98b202fad7110586e678339246a1e94641ebd9566"
     },
@@ -555,7 +555,7 @@
    "versions": [
     {
      "from": "2026-11-02",
-     "units": 677,
+     "units": 679,
      "source_url": "https://legislature.vermont.gov/statutes/title/16",
      "sha256": "e82efa0929e3dfff1c6c3b78476db9f3149bfe24b91e6b614dafef3fb629a31b"
     },
@@ -595,7 +595,7 @@
    "versions": [
     {
      "from": "2026-11-02",
-     "units": 362,
+     "units": 365,
      "source_url": "https://legislature.vermont.gov/statutes/title/17",
      "sha256": "ff24ae2b6b344f961f77c85dca89485fd082b6b052557ccc8d2465fe42a5725c"
     }
@@ -609,7 +609,7 @@
    "versions": [
     {
      "from": "2026-11-02",
-     "units": 1088,
+     "units": 1089,
      "source_url": "https://legislature.vermont.gov/statutes/title/18",
      "sha256": "444c5572ae4f1f6fd0a951f172b0da5701907c4e33ea3348289e3d597f091610"
     },
@@ -653,7 +653,7 @@
    "versions": [
     {
      "from": "2026-11-02",
-     "units": 315,
+     "units": 317,
      "source_url": "https://legislature.vermont.gov/statutes/title/19",
      "sha256": "d418344d9a908de3c250049530a8942ba6b04372d029115becc9bfdebe4be5b7"
     },
@@ -679,7 +679,7 @@
    "versions": [
     {
      "from": "2026-11-02",
-     "units": 581,
+     "units": 582,
      "source_url": "https://legislature.vermont.gov/statutes/title/20",
      "sha256": "1252b70885cf798b3e9a4eda24dcb6048c230ed0e52d5ec055fdc5d440fccd03"
     },
@@ -727,7 +727,7 @@
    "versions": [
     {
      "from": "2026-11-02",
-     "units": 785,
+     "units": 788,
      "source_url": "https://legislature.vermont.gov/statutes/title/23",
      "sha256": "4ccb10eb2624aca40fc3582c45f53ecb393ca0bb0b9e01ec4126d6637b5346dc"
     },
@@ -747,7 +747,7 @@
    "versions": [
     {
      "from": "2026-11-02",
-     "units": 1107,
+     "units": 1109,
      "source_url": "https://legislature.vermont.gov/statutes/title/24",
      "sha256": "0e601a2648f933fe4b1acaec4cb38811e2705865a02e9c8933e8dc909ae0fbb5"
     },
@@ -773,7 +773,7 @@
    "versions": [
     {
      "from": "2026-11-02",
-     "units": 3408,
+     "units": 3413,
      "source_url": "https://legislature.vermont.gov/statutes/title/24APPENDIX",
      "sha256": "3b396e2d21a92e45b0ac03bc1229397be19dc53db9356af11c275ef0d1dbe88c"
     }
@@ -801,7 +801,7 @@
    "versions": [
     {
      "from": "2026-11-02",
-     "units": 1027,
+     "units": 1029,
      "source_url": "https://legislature.vermont.gov/statutes/title/26",
      "sha256": "e767e329ae6cbbc168f689259e9a7e9d15dc0f1992a2ed2ced5cb1bff883c553"
     },
@@ -833,7 +833,7 @@
    "versions": [
     {
      "from": "2026-11-02",
-     "units": 90,
+     "units": 91,
      "source_url": "https://legislature.vermont.gov/statutes/title/27A",
      "sha256": "e928311418ce340614d4aec01ba7ea7c9714dac4d727ffd68353202fbb833b6e"
     }
@@ -965,7 +965,7 @@
    "versions": [
     {
      "from": "2026-11-02",
-     "units": 597,
+     "units": 599,
      "source_url": "https://legislature.vermont.gov/statutes/title/33",
      "sha256": "88bb04814d6ce13cfbf3660cfa3fa22dada45ca56d29debf7309e6459b9fa76e"
     },
