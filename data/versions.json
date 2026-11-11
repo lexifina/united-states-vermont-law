@@ -412,6 +412,12 @@
    "url": "https://legislature.vermont.gov/statutes/title/11C",
    "versions": [
     {
+     "from": "2012-04-20",
+     "units": 176,
+     "source_url": "https://legislature.vermont.gov/Documents/2012/Docs/ACTS/ACT084/ACT084%20As%20Enacted.pdf",
+     "sha256": "bd88aa2fbe88c1b74a4914e99f64608e8c213c377aefec14fff64ee66f4646af"
+    },
+    {
      "from": "2026-11-02",
      "units": 157,
      "source_url": "https://legislature.vermont.gov/statutes/title/11C",
@@ -515,6 +521,12 @@
    "title": "Vermont Statutes Annotated, Title 15C. Parentage Proceedings",
    "url": "https://legislature.vermont.gov/statutes/title/15C",
    "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 82,
+     "source_url": "https://legislature.vermont.gov/Documents/2018/Docs/ACTS/ACT162/ACT162%20As%20Enacted.pdf",
+     "sha256": "f258edc65eb356f05ce3ffc6f82a7a127330ec26b48077f3471110f315697260"
+    },
     {
      "from": "2026-11-02",
      "units": 74,
