@@ -57,20 +57,20 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-26` | Vermont Statutes Annotated, Title 26. Professions and Occupations | 1 | 2026-11-02 to 2026-11-02 |
 | `title-27a` | Vermont Statutes Annotated, Title 27A. Vermont Common Interest Ownership Act (1994) | 1 | 2026-11-02 to 2026-11-02 |
 | `title-28` | Vermont Statutes Annotated, Title 28. Public Institutions and Corrections | 1 | 2026-11-02 to 2026-11-02 |
-| `title-29` | Vermont Statutes Annotated, Title 29. Public Property and Supplies | 1 | 2026-11-02 to 2026-11-02 |
+| `title-29` | Vermont Statutes Annotated, Title 29. Public Property and Supplies | 1 | 2026-04-06 to 2026-04-06 |
 | `title-30` | Vermont Statutes Annotated, Title 30. Public Service | 1 | 2026-11-02 to 2026-11-02 |
 | `title-31` | Vermont Statutes Annotated, Title 31. Recreation and Sports | 1 | 2024-07-01 to 2024-07-01 |
 | `title-32` | Vermont Statutes Annotated, Title 32. Taxation and Finance | 1 | 2026-10-01 to 2026-10-01 |
 | `title-33` | Vermont Statutes Annotated, Title 33. Human Services | 1 | 2026-11-02 to 2026-11-02 |
 
-The repository has 134 commits after the correction documentation append:
+The repository has 137 commits after the correction documentation append:
 
 | Commits | Kind |
 | ---: | --- |
 | 47 | first version of an act |
 | 0 | one law on its in-force day |
 | 3 | changes no amendment note explains, credited to the publisher |
-| 70 | labelled corrections |
+| 72 | labelled corrections |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
@@ -88,11 +88,13 @@ When a law gives no date of its own, the default rule applies: 1 V.S.A. section 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `619f5c4b802e38051d23a3e0d5e5519fc458f82a4f6064899f515fa16bfd4b5b` (40090938 bytes).
+- Corpus: sha256 `a76823eb4324239ede7b1b4c7d27d94882386e460eec9c4522cfcecb28b7590b` (40091651 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `d203295dfee1008d4a2f6603c66bdf374c6750d4`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
+
+The Title 4 current snapshot is source-dated 1 July 2026; section 38 is omitted as repealed on 1 July 2025 by 2019 No. 77, section 25. The Title 29 current snapshot is source-dated 6 April 2026. These dates use the latest effective days printed across all 41 current chapters of the two titles. All 237 retained sections agree with the original official HTML, including source punctuation; all source chapter law text agrees with the earlier official captures. The source image inventory for both snapshots is explicitly zero. Other titles and earlier consolidated editions remain under review.
 
 The 13 November 2026 text-correction append independently matches 223 complete original official HTML blocks, including 126 textual tables. The current corpus/history gate reports 47 acts, 54 published versions, zero text or tip mismatches and zero trailer errors. Source image counts in the corrected blocks are zero; the inherited whole-version image inventories remain unsurveyed.
 

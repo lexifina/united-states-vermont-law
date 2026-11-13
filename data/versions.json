@@ -639,10 +639,11 @@
       "url": "https://legislature.vermont.gov/statutes/title/29",
       "versions": [
         {
-          "from": "2026-11-02",
+          "from": "2026-04-06",
           "units": 111,
           "source_url": "https://legislature.vermont.gov/statutes/title/29",
-          "sha256": "a8af457d8d3c817830b9e6b7bfe3d08ee0b0c1e6dc0079926fc5f8a9aa8959a7"
+          "sha256": "f4ad43f40f9b907784e42d46eb4a4f41636afbb02a678470eae114f4609d0677",
+          "source_images": 0
         }
       ]
     },
