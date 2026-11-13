@@ -20,7 +20,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `property` | Vermont Statutes Annotated, Title 27. Property | 2 | 2026-10-29 to 2026-11-02 |
 | `corporations` | Vermont Statutes Annotated, Title 11A. Business Corporations | 2 | 2026-10-29 to 2026-11-02 |
 | `title-1` | Vermont Statutes Annotated, Title 1. General Provisions | 1 | 2026-11-02 to 2026-11-02 |
-| `title-2` | Vermont Statutes Annotated, Title 2. Legislature | 1 | 2026-11-02 to 2026-11-02 |
+| `title-2` | Vermont Statutes Annotated, Title 2. Legislature | 1 | 2026-07-01 to 2026-07-01 |
 | `title-3` | Vermont Statutes Annotated, Title 3. Executive | 1 | 2026-11-02 to 2026-11-02 |
 | `title-3-appendix` | Vermont Statutes Annotated, Title 3 Appendix. Executive Orders | 1 | 2026-11-02 to 2026-11-02 |
 | `title-4` | Vermont Statutes Annotated, Title 4. Judiciary | 1 | 2026-07-01 to 2026-07-01 |
@@ -63,14 +63,14 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-32` | Vermont Statutes Annotated, Title 32. Taxation and Finance | 1 | 2026-10-01 to 2026-10-01 |
 | `title-33` | Vermont Statutes Annotated, Title 33. Human Services | 1 | 2026-11-02 to 2026-11-02 |
 
-The repository has 140 commits after the correction documentation append:
+The repository has 143 commits after the correction documentation append:
 
 | Commits | Kind |
 | ---: | --- |
 | 47 | first version of an act |
 | 0 | one law on its in-force day |
 | 3 | changes no amendment note explains, credited to the publisher |
-| 74 | labelled corrections |
+| 76 | labelled corrections |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
@@ -88,11 +88,13 @@ When a law gives no date of its own, the default rule applies: 1 V.S.A. section 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `658a76e3122780c446123e7f791f4c662e0a2a8ace6a1a5f5f638b1a4eb6c33f` (40092452 bytes).
+- Corpus: sha256 `d253355b066e8c76b53769a837b1ffface91a442cf61bb038645d656f3aa6878` (40093066 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `d203295dfee1008d4a2f6603c66bdf374c6750d4`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
+
+The Title 2 current snapshot is source-dated 1 July 2026. This uses the latest effective day printed across all 25 current chapters. All 87 retained sections agree with the original official HTML, including source punctuation; all source chapter law text agrees with the earlier official captures. The source image inventory for this snapshot is explicitly zero. Other titles and earlier consolidated editions remain under review.
 
 The Title 5 current snapshot is source-dated 30 April 2026. This uses the latest effective day printed across all 22 current chapters. All 297 retained sections agree with the original official HTML, including source punctuation; all source chapter law text agrees with the earlier official captures. The source image inventory for this snapshot is explicitly zero. Other titles and earlier consolidated editions remain under review.
 
