@@ -53,7 +53,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-23` | Vermont Statutes Annotated, Title 23. Motor Vehicles | 1 | 2026-11-02 to 2026-11-02 |
 | `title-24` | Vermont Statutes Annotated, Title 24. Municipal and County Government | 1 | 2026-11-02 to 2026-11-02 |
 | `title-24-appendix` | Vermont Statutes Annotated, Title 24 Appendix. MUNICIPAL CHARTERS | 1 | 2026-11-02 to 2026-11-02 |
-| `title-25` | Vermont Statutes Annotated, Title 25. Navigation and Waters | 1 | 2026-11-02 to 2026-11-02 |
+| `title-25` | Vermont Statutes Annotated, Title 25. Navigation and Waters | 1 | 2026-07-01 to 2026-07-01 |
 | `title-26` | Vermont Statutes Annotated, Title 26. Professions and Occupations | 1 | 2026-11-02 to 2026-11-02 |
 | `title-27a` | Vermont Statutes Annotated, Title 27A. Vermont Common Interest Ownership Act (1994) | 1 | 2026-11-02 to 2026-11-02 |
 | `title-28` | Vermont Statutes Annotated, Title 28. Public Institutions and Corrections | 1 | 2026-11-02 to 2026-11-02 |
@@ -63,14 +63,14 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-32` | Vermont Statutes Annotated, Title 32. Taxation and Finance | 1 | 2026-10-01 to 2026-10-01 |
 | `title-33` | Vermont Statutes Annotated, Title 33. Human Services | 1 | 2026-11-02 to 2026-11-02 |
 
-The repository has 123 commits after the correction documentation append:
+The repository has 126 commits after the correction documentation append:
 
 | Commits | Kind |
 | ---: | --- |
 | 47 | first version of an act |
 | 0 | one law on its in-force day |
 | 3 | changes no amendment note explains, credited to the publisher |
-| 62 | labelled corrections |
+| 64 | labelled corrections |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
@@ -80,7 +80,7 @@ Other counts:
 
 ## Dates
 
-Original law commits use their recorded legal dates. Labelled correction commits are appended when the correction is made; their Corrects and In-force trailers identify the source-dated text being corrected. Title 32 is reconciled to 1 October 2026 from the amendment histories of sections 3757 and 3758 (2025 No. 164, sections 3 and 4). Other current title dates remain under review.
+Original law commits use their recorded legal dates. Labelled correction commits are appended when the correction is made; their Corrects and In-force trailers identify the source-dated text being corrected. Title 32 is reconciled to 1 October 2026 from the amendment histories of sections 3757 and 3758 (2025 No. 164, sections 3 and 4). Title 25 is reconciled to 1 July 2026 from the printed repeal of sections 241–245. Other current title dates remain under review.
 
 When a law gives no date of its own, the default rule applies: 1 V.S.A. section 212: an act takes effect on passage unless otherwise provided. https://legislature.vermont.gov/statutes/title/01
 
@@ -88,7 +88,7 @@ When a law gives no date of its own, the default rule applies: 1 V.S.A. section 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `e8feebac4788cd1a6e0d1d10510218abb4a56df6e0b4285e1f43125a3d063406` (40092003 bytes).
+- Corpus: sha256 `c6fae4f90c72fbfb990132dea93796d243182a46948933fa3c15e1244d460a00` (40092381 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `d203295dfee1008d4a2f6603c66bdf374c6750d4`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

@@ -42,6 +42,7 @@ The General Assembly's [2009 Act 20 as enacted](https://legislature.vermont.gov/
 
 ## Dates
 
+- Title 25 current text is dated **1 July 2026**, when 2025 No. 168 (Adj. Sess.), section 34, repealed sections 241–245; its official chapter pages show no later dated change. Four retained sections have labelled corrections for source punctuation.
 - Title 32 current text is dated **1 October 2026**, the effective date printed for 2025 No. 164 (Adj. Sess.), sections 3 and 4, in the histories of 32 V.S.A. sections 3757 and 3758. The current-title review found no later noncontingent effective date through 2 November 2026. Labelled corrections reconcile the inherited 2 November date; law text is unchanged.
 - Other current statute snapshots retain their previously recorded dates pending a source-date review. The older Title 11C, Title 14A, Title 15B and Title 15C texts have dates from the cited session laws.
 - The Constitution is dated **31 March 2021**, the date its page gives ("as established July 9, 1793, and amended through March 31, 2021").
