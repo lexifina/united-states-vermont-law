@@ -24,6 +24,8 @@ The Constitution of Vermont and the Vermont Statutes Annotated as a git reposito
 | `title-*/` | Every other title, one folder per title | 1 or more | Oldest version available, 2026 session; later versions on the days printed forms take effect |
 | `title-*-appendix/` | The appendices to Titles 3 (executive orders), 10, 16 and 24 (municipal charters) | 1 | Oldest version available, 2026 session |
 
+The recorded corpus and version tables contain only versions through 13 November 2026; future-dated draft snapshots are held separately.
+
 Titles were added in parts from 3 November 2026; `data/versions.json` lists what each commit holds. Session laws are sources for the four historical editions but are not separate acts in this repository.
 
 ## Where the text comes from
@@ -40,11 +42,16 @@ The General Assembly's [2009 Act 20 as enacted](https://legislature.vermont.gov/
 
 ## Dates
 
-- Each current 2026 statute snapshot is dated the day before its pages were retrieved (29 October 2026 for the first build; for later titles, the day before their last page was retrieved): the pages say they include the 2026 session's actions but give no day. It is the oldest version available; the statute pages themselves keep no earlier editions. The older Title 11C, Title 14A, Title 15B, and Title 15C texts come from the General Assembly's 2012 Act 84, 2009 Act 20, 2015 Act 16, and 2018 Act 162 PDFs.
+- Title 32 current text is dated **1 October 2026**, the effective date printed for 2025 No. 164 (Adj. Sess.), sections 3 and 4, in the histories of 32 V.S.A. sections 3757 and 3758. The current-title review found no later noncontingent effective date through 2 November 2026. Labelled corrections reconcile the inherited 2 November date; law text is unchanged.
+- Other current statute snapshots retain their previously recorded dates pending a source-date review. The older Title 11C, Title 14A, Title 15B and Title 15C texts have dates from the cited session laws.
 - The Constitution is dated **31 March 2021**, the date its page gives ("as established July 9, 1793, and amended through March 31, 2021").
 - The first commit of each act is credited to the publisher as "oldest version available".
 - Where the site prints two forms of a section ("[Effective until January 1, 2027]" and "[Effective January 1, 2027]"), the form in force on the version's day is taken, and the title gets a later version on the day the other form takes effect; a section printed "[Repealed effective July 1, 2027]" stays until that day. Versions dated after the last build day are added when their day comes. Forms that take effect only if a contingency is met, and sections printed "[Contingently enacted]", are left out: the site does not say whether the contingency occurred.
 - Titles 1, 2 and 3 were first published (3 November 2026) without sections repealed only from a later day and with some future forms read as current; correction commits (`Kind: correction`) set their text right for the same day.
+
+On 13 November 2026, labelled corrections restored the complete printed text of 223 sections and executive orders, including 126 textual tables, source headings, notes and effective-date labels. Within a section, the publisher's subsection alternatives retain their printed effective-date labels; these alternatives are not separate historical versions. The Title 32 corrections use the source date of 1 October 2026. Other title snapshot dates remain under review.
+
+Title 26 text corrections are held because new official chapter responses differ from the retained source captures. This append retains its previously published text pending source reconciliation.
 
 ## What it does not show
 

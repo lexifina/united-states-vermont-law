@@ -1,993 +1,705 @@
 {
- "country": "US-VT",
- "acts": [
-  {
-   "slug": "constitution",
-   "short": "Constitution",
-   "title": "Constitution of the State of Vermont (1793, amended through 31 March 2021)",
-   "url": "https://legislature.vermont.gov/statutes/constitution-of-the-state-of-vermont",
-   "versions": [
+  "country": "US-VT",
+  "acts": [
     {
-     "from": "2021-03-31",
-     "units": 98,
-     "source_url": "https://legislature.vermont.gov/statutes/constitution-of-the-state-of-vermont",
-     "sha256": "7661f9ff9f1f7186bba0743966d138281c1822d3fd02a94d1d0a6f8acc6e7559"
+      "slug": "constitution",
+      "short": "Constitution",
+      "title": "Constitution of the State of Vermont (1793, amended through 31 March 2021)",
+      "url": "https://legislature.vermont.gov/statutes/constitution-of-the-state-of-vermont",
+      "versions": [
+        {
+          "from": "2021-03-31",
+          "units": 98,
+          "source_url": "https://legislature.vermont.gov/statutes/constitution-of-the-state-of-vermont",
+          "sha256": "7661f9ff9f1f7186bba0743966d138281c1822d3fd02a94d1d0a6f8acc6e7559"
+        }
+      ]
+    },
+    {
+      "slug": "crimes",
+      "short": "13 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 13. Crimes and Criminal Procedure",
+      "url": "https://legislature.vermont.gov/statutes/title/13",
+      "versions": [
+        {
+          "from": "2026-10-29",
+          "units": 103,
+          "source_url": "https://legislature.vermont.gov/statutes/title/13",
+          "sha256": "9fb6bf01a8ca098da2f2ddb61c6ed32616d546a2359c93b59b3f0bd516ab0283"
+        },
+        {
+          "from": "2026-11-02",
+          "units": 859,
+          "source_url": "https://legislature.vermont.gov/statutes/title/13",
+          "sha256": "c6f0a17959d6c8c2b82962317a74f5923cad502b128bfeab8a460cee2e8c6a7b"
+        }
+      ]
+    },
+    {
+      "slug": "property",
+      "short": "27 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 27. Property",
+      "url": "https://legislature.vermont.gov/statutes/title/27",
+      "versions": [
+        {
+          "from": "2026-10-29",
+          "units": 103,
+          "source_url": "https://legislature.vermont.gov/statutes/title/27",
+          "sha256": "a81f9bbcf36daa9dbae479d2b8bedbaf4f36bd3526e637c635668964e912eae8"
+        },
+        {
+          "from": "2026-11-02",
+          "units": 316,
+          "source_url": "https://legislature.vermont.gov/statutes/title/27",
+          "sha256": "5c762824b84c6c00f4f848aa69c32c0b3ac1734cca07ea70d3d8162ada7af40e"
+        }
+      ]
+    },
+    {
+      "slug": "corporations",
+      "short": "11A V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 11A. Business Corporations",
+      "url": "https://legislature.vermont.gov/statutes/title/11A",
+      "versions": [
+        {
+          "from": "2026-10-29",
+          "units": 97,
+          "source_url": "https://legislature.vermont.gov/statutes/title/11A",
+          "sha256": "1c4263270a080362719c04e09108cede4fb1c5842008e642d1f961865034fd7c"
+        },
+        {
+          "from": "2026-11-02",
+          "units": 216,
+          "source_url": "https://legislature.vermont.gov/statutes/title/11A",
+          "sha256": "c1b1d97f3abf4b0a7ba1341c9d07265ee5f1723e08aa88209fc29c4fc42e10af"
+        }
+      ]
+    },
+    {
+      "slug": "title-1",
+      "short": "1 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 1. General Provisions",
+      "url": "https://legislature.vermont.gov/statutes/title/01",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 183,
+          "source_url": "https://legislature.vermont.gov/statutes/title/01",
+          "sha256": "f88068bedf9a42990a984afcbefec0bf542e3441b60ec0b0089b1249c5f48008"
+        }
+      ]
+    },
+    {
+      "slug": "title-2",
+      "short": "2 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 2. Legislature",
+      "url": "https://legislature.vermont.gov/statutes/title/02",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 87,
+          "source_url": "https://legislature.vermont.gov/statutes/title/02",
+          "sha256": "50b1b3c8b7eafd2e01a576750bac292b37136fe7cbe22962a7058deb0698457a"
+        }
+      ]
+    },
+    {
+      "slug": "title-3",
+      "short": "3 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 3. Executive",
+      "url": "https://legislature.vermont.gov/statutes/title/03",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 547,
+          "source_url": "https://legislature.vermont.gov/statutes/title/03",
+          "sha256": "06405f3587a12ef0899e73e6e02cc4ab1e9db79bea5f1e2c81923cdde3d76463"
+        }
+      ]
+    },
+    {
+      "slug": "title-3-appendix",
+      "short": "3 V.S.A. App.",
+      "title": "Vermont Statutes Annotated, Title 3 Appendix. Executive Orders",
+      "url": "https://legislature.vermont.gov/statutes/title/03APPENDIX",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 191,
+          "source_url": "https://legislature.vermont.gov/statutes/title/03APPENDIX",
+          "sha256": "695c27d5bf2fcdbd482dfcc7c5dff0409b428abeafb6423f8e9ca301e5b3d632"
+        }
+      ]
+    },
+    {
+      "slug": "title-4",
+      "short": "4 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 4. Judiciary",
+      "url": "https://legislature.vermont.gov/statutes/title/04",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 127,
+          "source_url": "https://legislature.vermont.gov/statutes/title/04",
+          "sha256": "018eb1d0b628e6eda45ce83aef4ab8b8cbf9755f21c4ce9b20530f4e7b9ecbe0"
+        }
+      ]
+    },
+    {
+      "slug": "title-5",
+      "short": "5 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 5. Aeronautics and Surface Transportation Generally",
+      "url": "https://legislature.vermont.gov/statutes/title/05",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 297,
+          "source_url": "https://legislature.vermont.gov/statutes/title/05",
+          "sha256": "648eecf24a60481f371382cf2c9f4add6e54b6d216167127598de449d65c431d"
+        }
+      ]
+    },
+    {
+      "slug": "title-6",
+      "short": "6 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 6. Agriculture",
+      "url": "https://legislature.vermont.gov/statutes/title/06",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 518,
+          "source_url": "https://legislature.vermont.gov/statutes/title/06",
+          "sha256": "bd31e7aea0640ece1a1c08d7a8bb6d98494e5953d6b4d01e27ee812d6bd64bf9"
+        }
+      ]
+    },
+    {
+      "slug": "title-7",
+      "short": "7 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 7. Alcoholic Beverages, Cannabis, and Tobacco",
+      "url": "https://legislature.vermont.gov/statutes/title/07",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 228,
+          "source_url": "https://legislature.vermont.gov/statutes/title/07",
+          "sha256": "dc46452536c6de29084c687a2899530aa26980aed0fe68efe75136ee796af55b"
+        }
+      ]
+    },
+    {
+      "slug": "title-8",
+      "short": "8 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 8. Banking and Insurance",
+      "url": "https://legislature.vermont.gov/statutes/title/08",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 1505,
+          "source_url": "https://legislature.vermont.gov/statutes/title/08",
+          "sha256": "05c82284653844a4b636b7f2eb60afe677bbeedf6a2a2c577e69b13b3cf82318"
+        }
+      ]
+    },
+    {
+      "slug": "title-9",
+      "short": "9 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 9. Commerce and Trade",
+      "url": "https://legislature.vermont.gov/statutes/title/09",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 741,
+          "source_url": "https://legislature.vermont.gov/statutes/title/09",
+          "sha256": "785574243193d09df76d867ba6ce904f48bb74ba11155bf2c5de7f2df261606b"
+        }
+      ]
+    },
+    {
+      "slug": "title-9a",
+      "short": "9A V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 9A. Uniform Commercial Code",
+      "url": "https://legislature.vermont.gov/statutes/title/09A",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 623,
+          "source_url": "https://legislature.vermont.gov/statutes/title/09A",
+          "sha256": "6a2cd6edba65466c5804186b1fc4cc896bb633be69fe90cc2b03433ea9707384"
+        }
+      ]
+    },
+    {
+      "slug": "title-10",
+      "short": "10 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 10. Conservation and Development",
+      "url": "https://legislature.vermont.gov/statutes/title/10",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 1329,
+          "source_url": "https://legislature.vermont.gov/statutes/title/10",
+          "sha256": "6372c5b0775f84b1d6c8f4404887bee79e8fe7e78df79ff96d02d4011d59a2a0"
+        }
+      ]
+    },
+    {
+      "slug": "title-10-appendix",
+      "short": "10 V.S.A. App.",
+      "title": "Vermont Statutes Annotated, Title 10 Appendix. Conservation and Development",
+      "url": "https://legislature.vermont.gov/statutes/title/10APPENDIX",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 54,
+          "source_url": "https://legislature.vermont.gov/statutes/title/10APPENDIX",
+          "sha256": "690eb65405b46e80fe88cd55d235b07efdad19d3ccba8caa0eeaf3235d2afb15"
+        }
+      ]
+    },
+    {
+      "slug": "title-11",
+      "short": "11 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 11. Corporations, Partnerships, and Associations",
+      "url": "https://legislature.vermont.gov/statutes/title/11",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 435,
+          "source_url": "https://legislature.vermont.gov/statutes/title/11",
+          "sha256": "cfbabee8cae0da81766762df34da83e7faaae893a3c48925a00f11f7304a16c6"
+        }
+      ]
+    },
+    {
+      "slug": "title-11b",
+      "short": "11B V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 11B. Nonprofit Corporations",
+      "url": "https://legislature.vermont.gov/statutes/title/11B",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 166,
+          "source_url": "https://legislature.vermont.gov/statutes/title/11B",
+          "sha256": "1eaa9a0c13ca13b946dbe51be7263181865b1900ca32c260f4e87be855afbd65"
+        }
+      ]
+    },
+    {
+      "slug": "title-11c",
+      "short": "11C V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 11C. Mutual Benefit Enterprises",
+      "url": "https://legislature.vermont.gov/statutes/title/11C",
+      "versions": [
+        {
+          "from": "2012-04-20",
+          "units": 176,
+          "source_url": "https://legislature.vermont.gov/Documents/2012/Docs/ACTS/ACT084/ACT084%20As%20Enacted.pdf",
+          "sha256": "bd88aa2fbe88c1b74a4914e99f64608e8c213c377aefec14fff64ee66f4646af"
+        },
+        {
+          "from": "2026-11-02",
+          "units": 157,
+          "source_url": "https://legislature.vermont.gov/statutes/title/11C",
+          "sha256": "d8ff04acfb4c6f2ad50917e2d1e841521c2098ba68d6c6d8818b729d7e380c87"
+        }
+      ]
+    },
+    {
+      "slug": "title-12",
+      "short": "12 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 12. Court Procedure",
+      "url": "https://legislature.vermont.gov/statutes/title/12",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 755,
+          "source_url": "https://legislature.vermont.gov/statutes/title/12",
+          "sha256": "3b37181004443ef228786dc98b202fad7110586e678339246a1e94641ebd9566"
+        }
+      ]
+    },
+    {
+      "slug": "title-14",
+      "short": "14 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 14. Decedents' Estates and Fiduciary Relations",
+      "url": "https://legislature.vermont.gov/statutes/title/14",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 536,
+          "source_url": "https://legislature.vermont.gov/statutes/title/14",
+          "sha256": "3bff4fe583feb62f326e456e5bffffcf9add10a0920d6568f5402f2e3e389c95"
+        }
+      ]
+    },
+    {
+      "slug": "title-14a",
+      "short": "14A V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 14A. Trusts",
+      "url": "https://legislature.vermont.gov/statutes/title/14A",
+      "versions": [
+        {
+          "from": "2009-07-01",
+          "units": 119,
+          "source_url": "https://legislature.vermont.gov/Documents/2010/Docs/ACTS/ACT020/ACT020%20As%20Enacted.pdf",
+          "sha256": "dfdca5118a272eef3ecd49dcf29ae40056c9f32d4c80c14e7be66a3715eea8ed"
+        },
+        {
+          "from": "2026-11-02",
+          "units": 154,
+          "source_url": "https://legislature.vermont.gov/statutes/title/14A",
+          "sha256": "a9daea13b4ebc681c6ac431319822b225f7fd4a08eb873a11a22e564bfab7642"
+        }
+      ]
+    },
+    {
+      "slug": "title-15",
+      "short": "15 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 15. Domestic Relations",
+      "url": "https://legislature.vermont.gov/statutes/title/15",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 221,
+          "source_url": "https://legislature.vermont.gov/statutes/title/15",
+          "sha256": "88eb19f45e471ba8047ea7dafa3165757bee3ae888b629d07f1067ef25f2deeb"
+        }
+      ]
+    },
+    {
+      "slug": "title-15a",
+      "short": "15A V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 15A. Adoption Act",
+      "url": "https://legislature.vermont.gov/statutes/title/15A",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 115,
+          "source_url": "https://legislature.vermont.gov/statutes/title/15A",
+          "sha256": "817e024c2addcaaba494cd637aeb38046a276d578a2274f362a8e3987fc232aa"
+        }
+      ]
+    },
+    {
+      "slug": "title-15b",
+      "short": "15B V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 15B. Uniform Interstate Family Support Act",
+      "url": "https://legislature.vermont.gov/statutes/title/15B",
+      "versions": [
+        {
+          "from": "2015-06-01",
+          "units": 88,
+          "source_url": "https://legislature.vermont.gov/Documents/2016/Docs/ACTS/ACT016/ACT016%20As%20Enacted.pdf",
+          "sha256": "97c4bf2596af70c14434e44e11e65600065062ca76fbd9e4cbdffb04f513166f"
+        },
+        {
+          "from": "2026-11-02",
+          "units": 78,
+          "source_url": "https://legislature.vermont.gov/statutes/title/15B",
+          "sha256": "36059e03c62fc748e4b25d5106a44a9fccfbb7457ca0fe8d637cd3bef6e1874a"
+        }
+      ]
+    },
+    {
+      "slug": "title-15c",
+      "short": "15C V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 15C. Parentage Proceedings",
+      "url": "https://legislature.vermont.gov/statutes/title/15C",
+      "versions": [
+        {
+          "from": "2018-07-01",
+          "units": 82,
+          "source_url": "https://legislature.vermont.gov/Documents/2018/Docs/ACTS/ACT162/ACT162%20As%20Enacted.pdf",
+          "sha256": "f258edc65eb356f05ce3ffc6f82a7a127330ec26b48077f3471110f315697260"
+        },
+        {
+          "from": "2026-11-02",
+          "units": 74,
+          "source_url": "https://legislature.vermont.gov/statutes/title/15C",
+          "sha256": "47eee3e6854f81537ab724dd9770215426acd1c7b5ca6b27cc68e5473f1bc6be"
+        }
+      ]
+    },
+    {
+      "slug": "title-16",
+      "short": "16 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 16. Education",
+      "url": "https://legislature.vermont.gov/statutes/title/16",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 679,
+          "source_url": "https://legislature.vermont.gov/statutes/title/16",
+          "sha256": "e82efa0929e3dfff1c6c3b78476db9f3149bfe24b91e6b614dafef3fb629a31b"
+        }
+      ]
+    },
+    {
+      "slug": "title-16-appendix",
+      "short": "16 V.S.A. App.",
+      "title": "Vermont Statutes Annotated, Title 16 Appendix. Appendix",
+      "url": "https://legislature.vermont.gov/statutes/title/16APPENDIX",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 122,
+          "source_url": "https://legislature.vermont.gov/statutes/title/16APPENDIX",
+          "sha256": "7123729fa7b038ee62664e5bc10e94bf40ffe7351a3851a8956c6307c3ad016e"
+        }
+      ]
+    },
+    {
+      "slug": "title-17",
+      "short": "17 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 17. Elections",
+      "url": "https://legislature.vermont.gov/statutes/title/17",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 365,
+          "source_url": "https://legislature.vermont.gov/statutes/title/17",
+          "sha256": "ff24ae2b6b344f961f77c85dca89485fd082b6b052557ccc8d2465fe42a5725c"
+        }
+      ]
+    },
+    {
+      "slug": "title-18",
+      "short": "18 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 18. Health",
+      "url": "https://legislature.vermont.gov/statutes/title/18",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 1089,
+          "source_url": "https://legislature.vermont.gov/statutes/title/18",
+          "sha256": "444c5572ae4f1f6fd0a951f172b0da5701907c4e33ea3348289e3d597f091610"
+        }
+      ]
+    },
+    {
+      "slug": "title-19",
+      "short": "19 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 19. Highways",
+      "url": "https://legislature.vermont.gov/statutes/title/19",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 317,
+          "source_url": "https://legislature.vermont.gov/statutes/title/19",
+          "sha256": "d418344d9a908de3c250049530a8942ba6b04372d029115becc9bfdebe4be5b7"
+        }
+      ]
+    },
+    {
+      "slug": "title-20",
+      "short": "20 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 20. Internal Security and Public Safety",
+      "url": "https://legislature.vermont.gov/statutes/title/20",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 582,
+          "source_url": "https://legislature.vermont.gov/statutes/title/20",
+          "sha256": "1252b70885cf798b3e9a4eda24dcb6048c230ed0e52d5ec055fdc5d440fccd03"
+        }
+      ]
+    },
+    {
+      "slug": "title-21",
+      "short": "21 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 21. Labor",
+      "url": "https://legislature.vermont.gov/statutes/title/21",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 461,
+          "source_url": "https://legislature.vermont.gov/statutes/title/21",
+          "sha256": "715d81600bbc7bb325c7a4c50a5319cd44f254fc6d57cea6c93d00abf2cbfef5"
+        }
+      ]
+    },
+    {
+      "slug": "title-22",
+      "short": "22 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 22. Libraries, History, and Information Technology",
+      "url": "https://legislature.vermont.gov/statutes/title/22",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 80,
+          "source_url": "https://legislature.vermont.gov/statutes/title/22",
+          "sha256": "462eb0fbf018ef9550d2460c6f4e985379003196660196ca42a1ecbdd56f7a07"
+        }
+      ]
+    },
+    {
+      "slug": "title-23",
+      "short": "23 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 23. Motor Vehicles",
+      "url": "https://legislature.vermont.gov/statutes/title/23",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 788,
+          "source_url": "https://legislature.vermont.gov/statutes/title/23",
+          "sha256": "4ccb10eb2624aca40fc3582c45f53ecb393ca0bb0b9e01ec4126d6637b5346dc"
+        }
+      ]
+    },
+    {
+      "slug": "title-24",
+      "short": "24 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 24. Municipal and County Government",
+      "url": "https://legislature.vermont.gov/statutes/title/24",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 1109,
+          "source_url": "https://legislature.vermont.gov/statutes/title/24",
+          "sha256": "0e601a2648f933fe4b1acaec4cb38811e2705865a02e9c8933e8dc909ae0fbb5"
+        }
+      ]
+    },
+    {
+      "slug": "title-24-appendix",
+      "short": "24 V.S.A. App.",
+      "title": "Vermont Statutes Annotated, Title 24 Appendix. MUNICIPAL CHARTERS",
+      "url": "https://legislature.vermont.gov/statutes/title/24APPENDIX",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 3413,
+          "source_url": "https://legislature.vermont.gov/statutes/title/24APPENDIX",
+          "sha256": "3b396e2d21a92e45b0ac03bc1229397be19dc53db9356af11c275ef0d1dbe88c"
+        }
+      ]
+    },
+    {
+      "slug": "title-25",
+      "short": "25 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 25. Navigation and Waters",
+      "url": "https://legislature.vermont.gov/statutes/title/25",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 12,
+          "source_url": "https://legislature.vermont.gov/statutes/title/25",
+          "sha256": "9f5de8d3a152107187630feabc4d64a004035e0ae008f8dcdbd4199d0bbb4dc3"
+        }
+      ]
+    },
+    {
+      "slug": "title-26",
+      "short": "26 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 26. Professions and Occupations",
+      "url": "https://legislature.vermont.gov/statutes/title/26",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 1029,
+          "source_url": "https://legislature.vermont.gov/statutes/title/26",
+          "sha256": "e767e329ae6cbbc168f689259e9a7e9d15dc0f1992a2ed2ced5cb1bff883c553"
+        }
+      ]
+    },
+    {
+      "slug": "title-27a",
+      "short": "27A V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 27A. Vermont Common Interest Ownership Act (1994)",
+      "url": "https://legislature.vermont.gov/statutes/title/27A",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 91,
+          "source_url": "https://legislature.vermont.gov/statutes/title/27A",
+          "sha256": "e928311418ce340614d4aec01ba7ea7c9714dac4d727ffd68353202fbb833b6e"
+        }
+      ]
+    },
+    {
+      "slug": "title-28",
+      "short": "28 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 28. Public Institutions and Corrections",
+      "url": "https://legislature.vermont.gov/statutes/title/28",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 214,
+          "source_url": "https://legislature.vermont.gov/statutes/title/28",
+          "sha256": "31f6650b1060a7049bc1d420220085d31ade252ad60eeb9c2f0ecb4b362aefeb"
+        }
+      ]
+    },
+    {
+      "slug": "title-29",
+      "short": "29 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 29. Public Property and Supplies",
+      "url": "https://legislature.vermont.gov/statutes/title/29",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 111,
+          "source_url": "https://legislature.vermont.gov/statutes/title/29",
+          "sha256": "a8af457d8d3c817830b9e6b7bfe3d08ee0b0c1e6dc0079926fc5f8a9aa8959a7"
+        }
+      ]
+    },
+    {
+      "slug": "title-30",
+      "short": "30 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 30. Public Service",
+      "url": "https://legislature.vermont.gov/statutes/title/30",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 454,
+          "source_url": "https://legislature.vermont.gov/statutes/title/30",
+          "sha256": "51f49dfee21e43d31c73a6f90afb3e15542f880868845a57e5b8005793cda39f"
+        }
+      ]
+    },
+    {
+      "slug": "title-31",
+      "short": "31 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 31. Recreation and Sports",
+      "url": "https://legislature.vermont.gov/statutes/title/31",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 97,
+          "source_url": "https://legislature.vermont.gov/statutes/title/31",
+          "sha256": "63c959e39fbde3c1017223bcd5edb227cdee84d9db5c1c841e987679c95e2ad0"
+        }
+      ]
+    },
+    {
+      "slug": "title-32",
+      "short": "32 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 32. Taxation and Finance",
+      "url": "https://legislature.vermont.gov/statutes/title/32",
+      "versions": [
+        {
+          "from": "2026-10-01",
+          "units": 1058,
+          "source_url": "https://legislature.vermont.gov/statutes/title/32",
+          "sha256": "8cbfc1ee65ab19033ea7c2be600f63bc1330fb6a03ead48fd8e6c69049a021c8"
+        }
+      ]
+    },
+    {
+      "slug": "title-33",
+      "short": "33 V.S.A.",
+      "title": "Vermont Statutes Annotated, Title 33. Human Services",
+      "url": "https://legislature.vermont.gov/statutes/title/33",
+      "versions": [
+        {
+          "from": "2026-11-02",
+          "units": 599,
+          "source_url": "https://legislature.vermont.gov/statutes/title/33",
+          "sha256": "88bb04814d6ce13cfbf3660cfa3fa22dada45ca56d29debf7309e6459b9fa76e"
+        }
+      ]
     }
-   ]
-  },
-  {
-   "slug": "crimes",
-   "short": "13 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 13. Crimes and Criminal Procedure",
-   "url": "https://legislature.vermont.gov/statutes/title/13",
-   "versions": [
-    {
-     "from": "2026-10-29",
-     "units": 103,
-     "source_url": "https://legislature.vermont.gov/statutes/title/13",
-     "sha256": "9fb6bf01a8ca098da2f2ddb61c6ed32616d546a2359c93b59b3f0bd516ab0283"
-    },
-    {
-     "from": "2026-11-02",
-     "units": 859,
-     "source_url": "https://legislature.vermont.gov/statutes/title/13",
-     "sha256": "c6f0a17959d6c8c2b82962317a74f5923cad502b128bfeab8a460cee2e8c6a7b"
-    },
-    {
-     "from": "2029-07-01",
-     "units": 859,
-     "source_url": "https://legislature.vermont.gov/statutes/title/13",
-     "sha256": "c6f0a17959d6c8c2b82962317a74f5923cad502b128bfeab8a460cee2e8c6a7b"
-    },
-    {
-     "from": "2030-12-31",
-     "units": 858,
-     "source_url": "https://legislature.vermont.gov/statutes/title/13",
-     "sha256": "c6f0a17959d6c8c2b82962317a74f5923cad502b128bfeab8a460cee2e8c6a7b"
-    }
-   ]
-  },
-  {
-   "slug": "property",
-   "short": "27 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 27. Property",
-   "url": "https://legislature.vermont.gov/statutes/title/27",
-   "versions": [
-    {
-     "from": "2026-10-29",
-     "units": 103,
-     "source_url": "https://legislature.vermont.gov/statutes/title/27",
-     "sha256": "a81f9bbcf36daa9dbae479d2b8bedbaf4f36bd3526e637c635668964e912eae8"
-    },
-    {
-     "from": "2026-11-02",
-     "units": 316,
-     "source_url": "https://legislature.vermont.gov/statutes/title/27",
-     "sha256": "5c762824b84c6c00f4f848aa69c32c0b3ac1734cca07ea70d3d8162ada7af40e"
-    }
-   ]
-  },
-  {
-   "slug": "corporations",
-   "short": "11A V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 11A. Business Corporations",
-   "url": "https://legislature.vermont.gov/statutes/title/11A",
-   "versions": [
-    {
-     "from": "2026-10-29",
-     "units": 97,
-     "source_url": "https://legislature.vermont.gov/statutes/title/11A",
-     "sha256": "1c4263270a080362719c04e09108cede4fb1c5842008e642d1f961865034fd7c"
-    },
-    {
-     "from": "2026-11-02",
-     "units": 216,
-     "source_url": "https://legislature.vermont.gov/statutes/title/11A",
-     "sha256": "c1b1d97f3abf4b0a7ba1341c9d07265ee5f1723e08aa88209fc29c4fc42e10af"
-    }
-   ]
-  },
-  {
-   "slug": "title-1",
-   "short": "1 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 1. General Provisions",
-   "url": "https://legislature.vermont.gov/statutes/title/01",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 183,
-     "source_url": "https://legislature.vermont.gov/statutes/title/01",
-     "sha256": "f88068bedf9a42990a984afcbefec0bf542e3441b60ec0b0089b1249c5f48008"
-    },
-    {
-     "from": "2027-05-01",
-     "units": 170,
-     "source_url": "https://legislature.vermont.gov/statutes/title/01",
-     "sha256": "f88068bedf9a42990a984afcbefec0bf542e3441b60ec0b0089b1249c5f48008"
-    }
-   ]
-  },
-  {
-   "slug": "title-2",
-   "short": "2 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 2. Legislature",
-   "url": "https://legislature.vermont.gov/statutes/title/02",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 87,
-     "source_url": "https://legislature.vermont.gov/statutes/title/02",
-     "sha256": "50b1b3c8b7eafd2e01a576750bac292b37136fe7cbe22962a7058deb0698457a"
-    }
-   ]
-  },
-  {
-   "slug": "title-3",
-   "short": "3 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 3. Executive",
-   "url": "https://legislature.vermont.gov/statutes/title/03",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 547,
-     "source_url": "https://legislature.vermont.gov/statutes/title/03",
-     "sha256": "06405f3587a12ef0899e73e6e02cc4ab1e9db79bea5f1e2c81923cdde3d76463"
-    },
-    {
-     "from": "2027-06-30",
-     "units": 545,
-     "source_url": "https://legislature.vermont.gov/statutes/title/03",
-     "sha256": "06405f3587a12ef0899e73e6e02cc4ab1e9db79bea5f1e2c81923cdde3d76463"
-    },
-    {
-     "from": "2028-07-01",
-     "units": 550,
-     "source_url": "https://legislature.vermont.gov/statutes/title/03",
-     "sha256": "06405f3587a12ef0899e73e6e02cc4ab1e9db79bea5f1e2c81923cdde3d76463"
-    },
-    {
-     "from": "2029-01-31",
-     "units": 549,
-     "source_url": "https://legislature.vermont.gov/statutes/title/03",
-     "sha256": "06405f3587a12ef0899e73e6e02cc4ab1e9db79bea5f1e2c81923cdde3d76463"
-    },
-    {
-     "from": "2030-06-30",
-     "units": 548,
-     "source_url": "https://legislature.vermont.gov/statutes/title/03",
-     "sha256": "06405f3587a12ef0899e73e6e02cc4ab1e9db79bea5f1e2c81923cdde3d76463"
-    }
-   ]
-  },
-  {
-   "slug": "title-3-appendix",
-   "short": "3 V.S.A. App.",
-   "title": "Vermont Statutes Annotated, Title 3 Appendix. Executive Orders",
-   "url": "https://legislature.vermont.gov/statutes/title/03APPENDIX",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 191,
-     "source_url": "https://legislature.vermont.gov/statutes/title/03APPENDIX",
-     "sha256": "695c27d5bf2fcdbd482dfcc7c5dff0409b428abeafb6423f8e9ca301e5b3d632"
-    }
-   ]
-  },
-  {
-   "slug": "title-4",
-   "short": "4 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 4. Judiciary",
-   "url": "https://legislature.vermont.gov/statutes/title/04",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 127,
-     "source_url": "https://legislature.vermont.gov/statutes/title/04",
-     "sha256": "018eb1d0b628e6eda45ce83aef4ab8b8cbf9755f21c4ce9b20530f4e7b9ecbe0"
-    }
-   ]
-  },
-  {
-   "slug": "title-5",
-   "short": "5 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 5. Aeronautics and Surface Transportation Generally",
-   "url": "https://legislature.vermont.gov/statutes/title/05",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 297,
-     "source_url": "https://legislature.vermont.gov/statutes/title/05",
-     "sha256": "648eecf24a60481f371382cf2c9f4add6e54b6d216167127598de449d65c431d"
-    }
-   ]
-  },
-  {
-   "slug": "title-6",
-   "short": "6 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 6. Agriculture",
-   "url": "https://legislature.vermont.gov/statutes/title/06",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 518,
-     "source_url": "https://legislature.vermont.gov/statutes/title/06",
-     "sha256": "bd31e7aea0640ece1a1c08d7a8bb6d98494e5953d6b4d01e27ee812d6bd64bf9"
-    }
-   ]
-  },
-  {
-   "slug": "title-7",
-   "short": "7 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 7. Alcoholic Beverages, Cannabis, and Tobacco",
-   "url": "https://legislature.vermont.gov/statutes/title/07",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 228,
-     "source_url": "https://legislature.vermont.gov/statutes/title/07",
-     "sha256": "dc46452536c6de29084c687a2899530aa26980aed0fe68efe75136ee796af55b"
-    },
-    {
-     "from": "2027-07-01",
-     "units": 229,
-     "source_url": "https://legislature.vermont.gov/statutes/title/07",
-     "sha256": "dc46452536c6de29084c687a2899530aa26980aed0fe68efe75136ee796af55b"
-    },
-    {
-     "from": "2028-07-01",
-     "units": 228,
-     "source_url": "https://legislature.vermont.gov/statutes/title/07",
-     "sha256": "dc46452536c6de29084c687a2899530aa26980aed0fe68efe75136ee796af55b"
-    }
-   ]
-  },
-  {
-   "slug": "title-8",
-   "short": "8 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 8. Banking and Insurance",
-   "url": "https://legislature.vermont.gov/statutes/title/08",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 1505,
-     "source_url": "https://legislature.vermont.gov/statutes/title/08",
-     "sha256": "05c82284653844a4b636b7f2eb60afe677bbeedf6a2a2c577e69b13b3cf82318"
-    },
-    {
-     "from": "2027-01-01",
-     "units": 1505,
-     "source_url": "https://legislature.vermont.gov/statutes/title/08",
-     "sha256": "05c82284653844a4b636b7f2eb60afe677bbeedf6a2a2c577e69b13b3cf82318"
-    },
-    {
-     "from": "2027-07-01",
-     "units": 1506,
-     "source_url": "https://legislature.vermont.gov/statutes/title/08",
-     "sha256": "05c82284653844a4b636b7f2eb60afe677bbeedf6a2a2c577e69b13b3cf82318"
-    }
-   ]
-  },
-  {
-   "slug": "title-9",
-   "short": "9 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 9. Commerce and Trade",
-   "url": "https://legislature.vermont.gov/statutes/title/09",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 741,
-     "source_url": "https://legislature.vermont.gov/statutes/title/09",
-     "sha256": "785574243193d09df76d867ba6ce904f48bb74ba11155bf2c5de7f2df261606b"
-    },
-    {
-     "from": "2027-01-01",
-     "units": 753,
-     "source_url": "https://legislature.vermont.gov/statutes/title/09",
-     "sha256": "785574243193d09df76d867ba6ce904f48bb74ba11155bf2c5de7f2df261606b"
-    },
-    {
-     "from": "2027-07-01",
-     "units": 754,
-     "source_url": "https://legislature.vermont.gov/statutes/title/09",
-     "sha256": "785574243193d09df76d867ba6ce904f48bb74ba11155bf2c5de7f2df261606b"
-    },
-    {
-     "from": "2028-01-01",
-     "units": 765,
-     "source_url": "https://legislature.vermont.gov/statutes/title/09",
-     "sha256": "785574243193d09df76d867ba6ce904f48bb74ba11155bf2c5de7f2df261606b"
-    },
-    {
-     "from": "2028-07-01",
-     "units": 770,
-     "source_url": "https://legislature.vermont.gov/statutes/title/09",
-     "sha256": "785574243193d09df76d867ba6ce904f48bb74ba11155bf2c5de7f2df261606b"
-    },
-    {
-     "from": "2030-06-30",
-     "units": 769,
-     "source_url": "https://legislature.vermont.gov/statutes/title/09",
-     "sha256": "785574243193d09df76d867ba6ce904f48bb74ba11155bf2c5de7f2df261606b"
-    }
-   ]
-  },
-  {
-   "slug": "title-9a",
-   "short": "9A V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 9A. Uniform Commercial Code",
-   "url": "https://legislature.vermont.gov/statutes/title/09A",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 623,
-     "source_url": "https://legislature.vermont.gov/statutes/title/09A",
-     "sha256": "6a2cd6edba65466c5804186b1fc4cc896bb633be69fe90cc2b03433ea9707384"
-    }
-   ]
-  },
-  {
-   "slug": "title-10",
-   "short": "10 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 10. Conservation and Development",
-   "url": "https://legislature.vermont.gov/statutes/title/10",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 1329,
-     "source_url": "https://legislature.vermont.gov/statutes/title/10",
-     "sha256": "6372c5b0775f84b1d6c8f4404887bee79e8fe7e78df79ff96d02d4011d59a2a0"
-    },
-    {
-     "from": "2029-03-01",
-     "units": 1324,
-     "source_url": "https://legislature.vermont.gov/statutes/title/10",
-     "sha256": "6372c5b0775f84b1d6c8f4404887bee79e8fe7e78df79ff96d02d4011d59a2a0"
-    },
-    {
-     "from": "2039-07-01",
-     "units": 1323,
-     "source_url": "https://legislature.vermont.gov/statutes/title/10",
-     "sha256": "6372c5b0775f84b1d6c8f4404887bee79e8fe7e78df79ff96d02d4011d59a2a0"
-    }
-   ]
-  },
-  {
-   "slug": "title-10-appendix",
-   "short": "10 V.S.A. App.",
-   "title": "Vermont Statutes Annotated, Title 10 Appendix. Conservation and Development",
-   "url": "https://legislature.vermont.gov/statutes/title/10APPENDIX",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 54,
-     "source_url": "https://legislature.vermont.gov/statutes/title/10APPENDIX",
-     "sha256": "690eb65405b46e80fe88cd55d235b07efdad19d3ccba8caa0eeaf3235d2afb15"
-    },
-    {
-     "from": "2027-07-01",
-     "units": 53,
-     "source_url": "https://legislature.vermont.gov/statutes/title/10APPENDIX",
-     "sha256": "690eb65405b46e80fe88cd55d235b07efdad19d3ccba8caa0eeaf3235d2afb15"
-    }
-   ]
-  },
-  {
-   "slug": "title-11",
-   "short": "11 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 11. Corporations, Partnerships, and Associations",
-   "url": "https://legislature.vermont.gov/statutes/title/11",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 435,
-     "source_url": "https://legislature.vermont.gov/statutes/title/11",
-     "sha256": "cfbabee8cae0da81766762df34da83e7faaae893a3c48925a00f11f7304a16c6"
-    },
-    {
-     "from": "2027-01-01",
-     "units": 436,
-     "source_url": "https://legislature.vermont.gov/statutes/title/11",
-     "sha256": "cfbabee8cae0da81766762df34da83e7faaae893a3c48925a00f11f7304a16c6"
-    }
-   ]
-  },
-  {
-   "slug": "title-11b",
-   "short": "11B V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 11B. Nonprofit Corporations",
-   "url": "https://legislature.vermont.gov/statutes/title/11B",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 166,
-     "source_url": "https://legislature.vermont.gov/statutes/title/11B",
-     "sha256": "1eaa9a0c13ca13b946dbe51be7263181865b1900ca32c260f4e87be855afbd65"
-    }
-   ]
-  },
-  {
-   "slug": "title-11c",
-   "short": "11C V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 11C. Mutual Benefit Enterprises",
-   "url": "https://legislature.vermont.gov/statutes/title/11C",
-   "versions": [
-    {
-     "from": "2012-04-20",
-     "units": 176,
-     "source_url": "https://legislature.vermont.gov/Documents/2012/Docs/ACTS/ACT084/ACT084%20As%20Enacted.pdf",
-     "sha256": "bd88aa2fbe88c1b74a4914e99f64608e8c213c377aefec14fff64ee66f4646af"
-    },
-    {
-     "from": "2026-11-02",
-     "units": 157,
-     "source_url": "https://legislature.vermont.gov/statutes/title/11C",
-     "sha256": "d8ff04acfb4c6f2ad50917e2d1e841521c2098ba68d6c6d8818b729d7e380c87"
-    }
-   ]
-  },
-  {
-   "slug": "title-12",
-   "short": "12 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 12. Court Procedure",
-   "url": "https://legislature.vermont.gov/statutes/title/12",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 755,
-     "source_url": "https://legislature.vermont.gov/statutes/title/12",
-     "sha256": "3b37181004443ef228786dc98b202fad7110586e678339246a1e94641ebd9566"
-    },
-    {
-     "from": "2027-07-01",
-     "units": 753,
-     "source_url": "https://legislature.vermont.gov/statutes/title/12",
-     "sha256": "3b37181004443ef228786dc98b202fad7110586e678339246a1e94641ebd9566"
-    }
-   ]
-  },
-  {
-   "slug": "title-14",
-   "short": "14 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 14. Decedents' Estates and Fiduciary Relations",
-   "url": "https://legislature.vermont.gov/statutes/title/14",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 536,
-     "source_url": "https://legislature.vermont.gov/statutes/title/14",
-     "sha256": "3bff4fe583feb62f326e456e5bffffcf9add10a0920d6568f5402f2e3e389c95"
-    }
-   ]
-  },
-  {
-   "slug": "title-14a",
-   "short": "14A V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 14A. Trusts",
-   "url": "https://legislature.vermont.gov/statutes/title/14A",
-   "versions": [
-    {
-     "from": "2009-07-01",
-     "units": 119,
-     "source_url": "https://legislature.vermont.gov/Documents/2010/Docs/ACTS/ACT020/ACT020%20As%20Enacted.pdf",
-     "sha256": "dfdca5118a272eef3ecd49dcf29ae40056c9f32d4c80c14e7be66a3715eea8ed"
-    },
-    {
-     "from": "2026-11-02",
-     "units": 154,
-     "source_url": "https://legislature.vermont.gov/statutes/title/14A",
-     "sha256": "a9daea13b4ebc681c6ac431319822b225f7fd4a08eb873a11a22e564bfab7642"
-    }
-   ]
-  },
-  {
-   "slug": "title-15",
-   "short": "15 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 15. Domestic Relations",
-   "url": "https://legislature.vermont.gov/statutes/title/15",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 221,
-     "source_url": "https://legislature.vermont.gov/statutes/title/15",
-     "sha256": "88eb19f45e471ba8047ea7dafa3165757bee3ae888b629d07f1067ef25f2deeb"
-    }
-   ]
-  },
-  {
-   "slug": "title-15a",
-   "short": "15A V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 15A. Adoption Act",
-   "url": "https://legislature.vermont.gov/statutes/title/15A",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 115,
-     "source_url": "https://legislature.vermont.gov/statutes/title/15A",
-     "sha256": "817e024c2addcaaba494cd637aeb38046a276d578a2274f362a8e3987fc232aa"
-    }
-   ]
-  },
-  {
-   "slug": "title-15b",
-   "short": "15B V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 15B. Uniform Interstate Family Support Act",
-   "url": "https://legislature.vermont.gov/statutes/title/15B",
-   "versions": [
-    {
-     "from": "2015-06-01",
-     "units": 88,
-     "source_url": "https://legislature.vermont.gov/Documents/2016/Docs/ACTS/ACT016/ACT016%20As%20Enacted.pdf",
-     "sha256": "97c4bf2596af70c14434e44e11e65600065062ca76fbd9e4cbdffb04f513166f"
-    },
-    {
-     "from": "2026-11-02",
-     "units": 78,
-     "source_url": "https://legislature.vermont.gov/statutes/title/15B",
-     "sha256": "36059e03c62fc748e4b25d5106a44a9fccfbb7457ca0fe8d637cd3bef6e1874a"
-    }
-   ]
-  },
-  {
-   "slug": "title-15c",
-   "short": "15C V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 15C. Parentage Proceedings",
-   "url": "https://legislature.vermont.gov/statutes/title/15C",
-   "versions": [
-    {
-     "from": "2018-07-01",
-     "units": 82,
-     "source_url": "https://legislature.vermont.gov/Documents/2018/Docs/ACTS/ACT162/ACT162%20As%20Enacted.pdf",
-     "sha256": "f258edc65eb356f05ce3ffc6f82a7a127330ec26b48077f3471110f315697260"
-    },
-    {
-     "from": "2026-11-02",
-     "units": 74,
-     "source_url": "https://legislature.vermont.gov/statutes/title/15C",
-     "sha256": "47eee3e6854f81537ab724dd9770215426acd1c7b5ca6b27cc68e5473f1bc6be"
-    }
-   ]
-  },
-  {
-   "slug": "title-16",
-   "short": "16 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 16. Education",
-   "url": "https://legislature.vermont.gov/statutes/title/16",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 679,
-     "source_url": "https://legislature.vermont.gov/statutes/title/16",
-     "sha256": "e82efa0929e3dfff1c6c3b78476db9f3149bfe24b91e6b614dafef3fb629a31b"
-    },
-    {
-     "from": "2027-06-30",
-     "units": 676,
-     "source_url": "https://legislature.vermont.gov/statutes/title/16",
-     "sha256": "e82efa0929e3dfff1c6c3b78476db9f3149bfe24b91e6b614dafef3fb629a31b"
-    },
-    {
-     "from": "2029-06-30",
-     "units": 675,
-     "source_url": "https://legislature.vermont.gov/statutes/title/16",
-     "sha256": "e82efa0929e3dfff1c6c3b78476db9f3149bfe24b91e6b614dafef3fb629a31b"
-    }
-   ]
-  },
-  {
-   "slug": "title-16-appendix",
-   "short": "16 V.S.A. App.",
-   "title": "Vermont Statutes Annotated, Title 16 Appendix. Appendix",
-   "url": "https://legislature.vermont.gov/statutes/title/16APPENDIX",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 122,
-     "source_url": "https://legislature.vermont.gov/statutes/title/16APPENDIX",
-     "sha256": "7123729fa7b038ee62664e5bc10e94bf40ffe7351a3851a8956c6307c3ad016e"
-    }
-   ]
-  },
-  {
-   "slug": "title-17",
-   "short": "17 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 17. Elections",
-   "url": "https://legislature.vermont.gov/statutes/title/17",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 365,
-     "source_url": "https://legislature.vermont.gov/statutes/title/17",
-     "sha256": "ff24ae2b6b344f961f77c85dca89485fd082b6b052557ccc8d2465fe42a5725c"
-    }
-   ]
-  },
-  {
-   "slug": "title-18",
-   "short": "18 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 18. Health",
-   "url": "https://legislature.vermont.gov/statutes/title/18",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 1089,
-     "source_url": "https://legislature.vermont.gov/statutes/title/18",
-     "sha256": "444c5572ae4f1f6fd0a951f172b0da5701907c4e33ea3348289e3d597f091610"
-    },
-    {
-     "from": "2027-01-01",
-     "units": 1089,
-     "source_url": "https://legislature.vermont.gov/statutes/title/18",
-     "sha256": "444c5572ae4f1f6fd0a951f172b0da5701907c4e33ea3348289e3d597f091610"
-    },
-    {
-     "from": "2029-07-01",
-     "units": 1084,
-     "source_url": "https://legislature.vermont.gov/statutes/title/18",
-     "sha256": "444c5572ae4f1f6fd0a951f172b0da5701907c4e33ea3348289e3d597f091610"
-    },
-    {
-     "from": "2030-01-01",
-     "units": 1081,
-     "source_url": "https://legislature.vermont.gov/statutes/title/18",
-     "sha256": "444c5572ae4f1f6fd0a951f172b0da5701907c4e33ea3348289e3d597f091610"
-    },
-    {
-     "from": "2031-01-01",
-     "units": 1080,
-     "source_url": "https://legislature.vermont.gov/statutes/title/18",
-     "sha256": "444c5572ae4f1f6fd0a951f172b0da5701907c4e33ea3348289e3d597f091610"
-    },
-    {
-     "from": "2031-07-01",
-     "units": 1079,
-     "source_url": "https://legislature.vermont.gov/statutes/title/18",
-     "sha256": "444c5572ae4f1f6fd0a951f172b0da5701907c4e33ea3348289e3d597f091610"
-    }
-   ]
-  },
-  {
-   "slug": "title-19",
-   "short": "19 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 19. Highways",
-   "url": "https://legislature.vermont.gov/statutes/title/19",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 317,
-     "source_url": "https://legislature.vermont.gov/statutes/title/19",
-     "sha256": "d418344d9a908de3c250049530a8942ba6b04372d029115becc9bfdebe4be5b7"
-    },
-    {
-     "from": "2027-01-01",
-     "units": 316,
-     "source_url": "https://legislature.vermont.gov/statutes/title/19",
-     "sha256": "d418344d9a908de3c250049530a8942ba6b04372d029115becc9bfdebe4be5b7"
-    },
-    {
-     "from": "2029-07-01",
-     "units": 311,
-     "source_url": "https://legislature.vermont.gov/statutes/title/19",
-     "sha256": "d418344d9a908de3c250049530a8942ba6b04372d029115becc9bfdebe4be5b7"
-    }
-   ]
-  },
-  {
-   "slug": "title-20",
-   "short": "20 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 20. Internal Security and Public Safety",
-   "url": "https://legislature.vermont.gov/statutes/title/20",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 582,
-     "source_url": "https://legislature.vermont.gov/statutes/title/20",
-     "sha256": "1252b70885cf798b3e9a4eda24dcb6048c230ed0e52d5ec055fdc5d440fccd03"
-    },
-    {
-     "from": "2033-06-30",
-     "units": 579,
-     "source_url": "https://legislature.vermont.gov/statutes/title/20",
-     "sha256": "1252b70885cf798b3e9a4eda24dcb6048c230ed0e52d5ec055fdc5d440fccd03"
-    }
-   ]
-  },
-  {
-   "slug": "title-21",
-   "short": "21 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 21. Labor",
-   "url": "https://legislature.vermont.gov/statutes/title/21",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 461,
-     "source_url": "https://legislature.vermont.gov/statutes/title/21",
-     "sha256": "715d81600bbc7bb325c7a4c50a5319cd44f254fc6d57cea6c93d00abf2cbfef5"
-    }
-   ]
-  },
-  {
-   "slug": "title-22",
-   "short": "22 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 22. Libraries, History, and Information Technology",
-   "url": "https://legislature.vermont.gov/statutes/title/22",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 80,
-     "source_url": "https://legislature.vermont.gov/statutes/title/22",
-     "sha256": "462eb0fbf018ef9550d2460c6f4e985379003196660196ca42a1ecbdd56f7a07"
-    }
-   ]
-  },
-  {
-   "slug": "title-23",
-   "short": "23 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 23. Motor Vehicles",
-   "url": "https://legislature.vermont.gov/statutes/title/23",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 788,
-     "source_url": "https://legislature.vermont.gov/statutes/title/23",
-     "sha256": "4ccb10eb2624aca40fc3582c45f53ecb393ca0bb0b9e01ec4126d6637b5346dc"
-    },
-    {
-     "from": "2027-01-01",
-     "units": 792,
-     "source_url": "https://legislature.vermont.gov/statutes/title/23",
-     "sha256": "4ccb10eb2624aca40fc3582c45f53ecb393ca0bb0b9e01ec4126d6637b5346dc"
-    }
-   ]
-  },
-  {
-   "slug": "title-24",
-   "short": "24 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 24. Municipal and County Government",
-   "url": "https://legislature.vermont.gov/statutes/title/24",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 1109,
-     "source_url": "https://legislature.vermont.gov/statutes/title/24",
-     "sha256": "0e601a2648f933fe4b1acaec4cb38811e2705865a02e9c8933e8dc909ae0fbb5"
-    },
-    {
-     "from": "2028-01-01",
-     "units": 1107,
-     "source_url": "https://legislature.vermont.gov/statutes/title/24",
-     "sha256": "0e601a2648f933fe4b1acaec4cb38811e2705865a02e9c8933e8dc909ae0fbb5"
-    },
-    {
-     "from": "2034-07-01",
-     "units": 1095,
-     "source_url": "https://legislature.vermont.gov/statutes/title/24",
-     "sha256": "0e601a2648f933fe4b1acaec4cb38811e2705865a02e9c8933e8dc909ae0fbb5"
-    }
-   ]
-  },
-  {
-   "slug": "title-24-appendix",
-   "short": "24 V.S.A. App.",
-   "title": "Vermont Statutes Annotated, Title 24 Appendix. MUNICIPAL CHARTERS",
-   "url": "https://legislature.vermont.gov/statutes/title/24APPENDIX",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 3413,
-     "source_url": "https://legislature.vermont.gov/statutes/title/24APPENDIX",
-     "sha256": "3b396e2d21a92e45b0ac03bc1229397be19dc53db9356af11c275ef0d1dbe88c"
-    }
-   ]
-  },
-  {
-   "slug": "title-25",
-   "short": "25 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 25. Navigation and Waters",
-   "url": "https://legislature.vermont.gov/statutes/title/25",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 12,
-     "source_url": "https://legislature.vermont.gov/statutes/title/25",
-     "sha256": "9f5de8d3a152107187630feabc4d64a004035e0ae008f8dcdbd4199d0bbb4dc3"
-    }
-   ]
-  },
-  {
-   "slug": "title-26",
-   "short": "26 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 26. Professions and Occupations",
-   "url": "https://legislature.vermont.gov/statutes/title/26",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 1029,
-     "source_url": "https://legislature.vermont.gov/statutes/title/26",
-     "sha256": "e767e329ae6cbbc168f689259e9a7e9d15dc0f1992a2ed2ced5cb1bff883c553"
-    },
-    {
-     "from": "2027-07-01",
-     "units": 1035,
-     "source_url": "https://legislature.vermont.gov/statutes/title/26",
-     "sha256": "e767e329ae6cbbc168f689259e9a7e9d15dc0f1992a2ed2ced5cb1bff883c553"
-    },
-    {
-     "from": "2028-07-01",
-     "units": 1037,
-     "source_url": "https://legislature.vermont.gov/statutes/title/26",
-     "sha256": "e767e329ae6cbbc168f689259e9a7e9d15dc0f1992a2ed2ced5cb1bff883c553"
-    },
-    {
-     "from": "2029-07-01",
-     "units": 1038,
-     "source_url": "https://legislature.vermont.gov/statutes/title/26",
-     "sha256": "e767e329ae6cbbc168f689259e9a7e9d15dc0f1992a2ed2ced5cb1bff883c553"
-    }
-   ]
-  },
-  {
-   "slug": "title-27a",
-   "short": "27A V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 27A. Vermont Common Interest Ownership Act (1994)",
-   "url": "https://legislature.vermont.gov/statutes/title/27A",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 91,
-     "source_url": "https://legislature.vermont.gov/statutes/title/27A",
-     "sha256": "e928311418ce340614d4aec01ba7ea7c9714dac4d727ffd68353202fbb833b6e"
-    }
-   ]
-  },
-  {
-   "slug": "title-28",
-   "short": "28 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 28. Public Institutions and Corrections",
-   "url": "https://legislature.vermont.gov/statutes/title/28",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 214,
-     "source_url": "https://legislature.vermont.gov/statutes/title/28",
-     "sha256": "31f6650b1060a7049bc1d420220085d31ade252ad60eeb9c2f0ecb4b362aefeb"
-    },
-    {
-     "from": "2028-07-01",
-     "units": 213,
-     "source_url": "https://legislature.vermont.gov/statutes/title/28",
-     "sha256": "31f6650b1060a7049bc1d420220085d31ade252ad60eeb9c2f0ecb4b362aefeb"
-    }
-   ]
-  },
-  {
-   "slug": "title-29",
-   "short": "29 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 29. Public Property and Supplies",
-   "url": "https://legislature.vermont.gov/statutes/title/29",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 111,
-     "source_url": "https://legislature.vermont.gov/statutes/title/29",
-     "sha256": "a8af457d8d3c817830b9e6b7bfe3d08ee0b0c1e6dc0079926fc5f8a9aa8959a7"
-    }
-   ]
-  },
-  {
-   "slug": "title-30",
-   "short": "30 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 30. Public Service",
-   "url": "https://legislature.vermont.gov/statutes/title/30",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 454,
-     "source_url": "https://legislature.vermont.gov/statutes/title/30",
-     "sha256": "51f49dfee21e43d31c73a6f90afb3e15542f880868845a57e5b8005793cda39f"
-    }
-   ]
-  },
-  {
-   "slug": "title-31",
-   "short": "31 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 31. Recreation and Sports",
-   "url": "https://legislature.vermont.gov/statutes/title/31",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 97,
-     "source_url": "https://legislature.vermont.gov/statutes/title/31",
-     "sha256": "63c959e39fbde3c1017223bcd5edb227cdee84d9db5c1c841e987679c95e2ad0"
-    }
-   ]
-  },
-  {
-   "slug": "title-32",
-   "short": "32 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 32. Taxation and Finance",
-   "url": "https://legislature.vermont.gov/statutes/title/32",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 1058,
-     "source_url": "https://legislature.vermont.gov/statutes/title/32",
-     "sha256": "8cbfc1ee65ab19033ea7c2be600f63bc1330fb6a03ead48fd8e6c69049a021c8"
-    },
-    {
-     "from": "2027-07-01",
-     "units": 1053,
-     "source_url": "https://legislature.vermont.gov/statutes/title/32",
-     "sha256": "8cbfc1ee65ab19033ea7c2be600f63bc1330fb6a03ead48fd8e6c69049a021c8"
-    },
-    {
-     "from": "2028-07-01",
-     "units": 1053,
-     "source_url": "https://legislature.vermont.gov/statutes/title/32",
-     "sha256": "8cbfc1ee65ab19033ea7c2be600f63bc1330fb6a03ead48fd8e6c69049a021c8"
-    },
-    {
-     "from": "2030-07-01",
-     "units": 1052,
-     "source_url": "https://legislature.vermont.gov/statutes/title/32",
-     "sha256": "8cbfc1ee65ab19033ea7c2be600f63bc1330fb6a03ead48fd8e6c69049a021c8"
-    },
-    {
-     "from": "2031-01-01",
-     "units": 1042,
-     "source_url": "https://legislature.vermont.gov/statutes/title/32",
-     "sha256": "8cbfc1ee65ab19033ea7c2be600f63bc1330fb6a03ead48fd8e6c69049a021c8"
-    },
-    {
-     "from": "2031-07-01",
-     "units": 1043,
-     "source_url": "https://legislature.vermont.gov/statutes/title/32",
-     "sha256": "8cbfc1ee65ab19033ea7c2be600f63bc1330fb6a03ead48fd8e6c69049a021c8"
-    },
-    {
-     "from": "2034-07-01",
-     "units": 1042,
-     "source_url": "https://legislature.vermont.gov/statutes/title/32",
-     "sha256": "8cbfc1ee65ab19033ea7c2be600f63bc1330fb6a03ead48fd8e6c69049a021c8"
-    },
-    {
-     "from": "2037-07-01",
-     "units": 1039,
-     "source_url": "https://legislature.vermont.gov/statutes/title/32",
-     "sha256": "8cbfc1ee65ab19033ea7c2be600f63bc1330fb6a03ead48fd8e6c69049a021c8"
-    }
-   ]
-  },
-  {
-   "slug": "title-33",
-   "short": "33 V.S.A.",
-   "title": "Vermont Statutes Annotated, Title 33. Human Services",
-   "url": "https://legislature.vermont.gov/statutes/title/33",
-   "versions": [
-    {
-     "from": "2026-11-02",
-     "units": 599,
-     "source_url": "https://legislature.vermont.gov/statutes/title/33",
-     "sha256": "88bb04814d6ce13cfbf3660cfa3fa22dada45ca56d29debf7309e6459b9fa76e"
-    },
-    {
-     "from": "2027-01-01",
-     "units": 598,
-     "source_url": "https://legislature.vermont.gov/statutes/title/33",
-     "sha256": "88bb04814d6ce13cfbf3660cfa3fa22dada45ca56d29debf7309e6459b9fa76e"
-    },
-    {
-     "from": "2028-07-01",
-     "units": 599,
-     "source_url": "https://legislature.vermont.gov/statutes/title/33",
-     "sha256": "88bb04814d6ce13cfbf3660cfa3fa22dada45ca56d29debf7309e6459b9fa76e"
-    },
-    {
-     "from": "2028-10-01",
-     "units": 600,
-     "source_url": "https://legislature.vermont.gov/statutes/title/33",
-     "sha256": "88bb04814d6ce13cfbf3660cfa3fa22dada45ca56d29debf7309e6459b9fa76e"
-    }
-   ]
-  }
- ]
+  ]
 }
