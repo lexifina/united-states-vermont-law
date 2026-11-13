@@ -24,6 +24,8 @@ The Constitution of Vermont and the Vermont Statutes Annotated as a git reposito
 | `title-*/` | Every other title, one folder per title | 1 or more | Oldest version available, 2026 session; later versions on the days printed forms take effect |
 | `title-*-appendix/` | The appendices to Titles 3 (executive orders), 10, 16 and 24 (municipal charters) | 1 | Oldest version available, 2026 session |
 
+The recorded corpus and version tables contain only versions through 13 November 2026; future-dated draft snapshots are held separately.
+
 Titles were added in parts from 3 November 2026; `data/versions.json` lists what each commit holds. Session laws are sources for the four historical editions but are not separate acts in this repository.
 
 ## Where the text comes from
@@ -45,6 +47,10 @@ The General Assembly's [2009 Act 20 as enacted](https://legislature.vermont.gov/
 - The first commit of each act is credited to the publisher as "oldest version available".
 - Where the site prints two forms of a section ("[Effective until January 1, 2027]" and "[Effective January 1, 2027]"), the form in force on the version's day is taken, and the title gets a later version on the day the other form takes effect; a section printed "[Repealed effective July 1, 2027]" stays until that day. Versions dated after the last build day are added when their day comes. Forms that take effect only if a contingency is met, and sections printed "[Contingently enacted]", are left out: the site does not say whether the contingency occurred.
 - Titles 1, 2 and 3 were first published (3 November 2026) without sections repealed only from a later day and with some future forms read as current; correction commits (`Kind: correction`) set their text right for the same day.
+
+On 13 November 2026, labelled corrections restored the complete printed text of 223 sections and executive orders, including 126 textual tables, source headings, notes and effective-date labels. Within a section, the publisher's subsection alternatives retain their printed effective-date labels; these alternatives are not separate historical versions. These text corrections retain the existing snapshot dates; the date of the latest applicable amendment for each current title remains under review.
+
+Title 26 text corrections are held because new official chapter responses differ from the retained source captures. This append retains its previously published text pending source reconciliation.
 
 ## What it does not show
 
