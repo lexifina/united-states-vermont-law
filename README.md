@@ -46,6 +46,8 @@ The General Assembly's [2009 Act 20 as enacted](https://legislature.vermont.gov/
 - Where the site prints two forms of a section ("[Effective until January 1, 2027]" and "[Effective January 1, 2027]"), the form in force on the version's day is taken, and the title gets a later version on the day the other form takes effect; a section printed "[Repealed effective July 1, 2027]" stays until that day. Versions dated after the last build day are added when their day comes. Forms that take effect only if a contingency is met, and sections printed "[Contingently enacted]", are left out: the site does not say whether the contingency occurred.
 - Titles 1, 2 and 3 were first published (3 November 2026) without sections repealed only from a later day and with some future forms read as current; correction commits (`Kind: correction`) set their text right for the same day.
 
+On 13 November 2026, labelled corrections restored the complete printed text of 254 sections and executive orders, including 153 textual tables, source headings, notes and effective-date labels. Within a section, the publisher's subsection alternatives retain their printed effective-date labels; these alternatives are not separate historical versions. These text corrections retain the existing snapshot dates; the date of the latest applicable amendment for each current title remains under review.
+
 ## What it does not show
 
 - Earlier consolidated editions of the other titles. The parenthetical amendment history printed after each section is retained, but most earlier wordings are not included.

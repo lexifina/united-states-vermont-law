@@ -63,13 +63,14 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-32` | Vermont Statutes Annotated, Title 32. Taxation and Finance | 8 | 2026-11-02 to 2037-07-01 |
 | `title-33` | Vermont Statutes Annotated, Title 33. Human Services | 4 | 2026-11-02 to 2028-10-01 |
 
-The build made 80 commits:
+The repository has 123 commits after the correction documentation append:
 
 | Commits | Kind |
 | ---: | --- |
 | 47 | first version of an act |
 | 0 | one law on its in-force day |
 | 3 | changes no amendment note explains, credited to the publisher |
+| 62 | labelled corrections |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
@@ -79,7 +80,7 @@ Other counts:
 
 ## Dates
 
-Each commit is dated at noon (America/New_York) on the day the change took effect. The other dates, enacted and published, are trailers.
+Original law commits use their recorded legal dates. Labelled correction commits are appended when the correction is made; their Corrects and In-force trailers identify the existing snapshot being corrected. The current title snapshot dates remain under review.
 
 When a law gives no date of its own, the default rule applies: 1 V.S.A. section 212: an act takes effect on passage unless otherwise provided. https://legislature.vermont.gov/statutes/title/01
 
@@ -87,15 +88,15 @@ When a law gives no date of its own, the default rule applies: 1 V.S.A. section 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `441868d7c5fecee743b0a051431befee9bec2e362577ad8f2fc9cbb44727ea72` (112280328 bytes).
+- Corpus: sha256 `932c5fa4af3a1f30e99322d4556657b5967ce746e2ca2aecb3008a102938122d` (112774107 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `d203295dfee1008d4a2f6603c66bdf374c6750d4`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-Not yet run for this build.
+The 13 November 2026 text-correction append independently matches 254 complete original official HTML blocks, including 153 textual tables. The current corpus/history gate reports 47 acts, 54 published versions, zero text or tip mismatches and zero trailer errors. Source image counts in the corrected blocks are zero; the inherited whole-version image inventories remain unsurveyed.
 
-No second build of this corpus has been compared yet.
+Two parses of the same official response bytes produced identical corpus and correction inventories. This is a determinism check; original official HTML supplies the independent wording check.
 
 ## Decisions made by hand
 
@@ -109,7 +110,7 @@ No second build of this corpus has been compared yet.
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The original source and build scripts were written by Claude Code under Lexifina's direction. The November 2026 text-correction parser and independent checks were written by GPT-6 under Lexifina's direction.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 
