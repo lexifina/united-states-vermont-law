@@ -1,6 +1,6 @@
 # Vermont Statutes Annotated, Title 7. Alcoholic Beverages, Cannabis, and Tobacco
 
-7 V.S.A. · 3 versions, from 2026-11-02 (latest in force: 2026-11-02) · <https://legislature.vermont.gov/statutes/title/07>
+7 V.S.A. · 3 versions, from 2026-07-01 (latest in force: 2026-07-01) · <https://legislature.vermont.gov/statutes/title/07>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
