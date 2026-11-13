@@ -44,6 +44,7 @@ The General Assembly's [2009 Act 20 as enacted](https://legislature.vermont.gov/
 
 - Title 4 current text is dated **1 July 2026**, the latest effective day printed across its 16 current chapters. All 126 retained sections match the official text after labelled source punctuation corrections. Section 38 is omitted as repealed on 1 July 2025 by 2019 No. 77, section 25.
 - Title 29 current text is dated **6 April 2026**, the latest effective day printed across its 25 current chapters. All 111 retained sections match the official text after labelled source punctuation corrections.
+- Title 5 current text is dated **30 April 2026**, the latest effective day printed across its 22 current chapters. All 297 retained sections match the official text after labelled source punctuation corrections.
 - Title 31 current text is dated **1 July 2024**, the latest effective day printed across its 16 current chapter pages. Labelled corrections restore official punctuation in 32 sections.
 - Title 22 current text is dated **1 July 2026**, from the printed effective date of 2025 No. 127 (Adj. Sess.), sections 5, 6 and 8. Source punctuation corrections make all 80 current sections match the official text.
 - Title 25 current text is dated **1 July 2026**, when 2025 No. 168 (Adj. Sess.), section 34, repealed sections 241–245; its official chapter pages show no later dated change. Four retained sections have labelled corrections for source punctuation.

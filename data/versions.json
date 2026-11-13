@@ -153,10 +153,11 @@
       "url": "https://legislature.vermont.gov/statutes/title/05",
       "versions": [
         {
-          "from": "2026-11-02",
+          "from": "2026-04-30",
           "units": 297,
           "source_url": "https://legislature.vermont.gov/statutes/title/05",
-          "sha256": "648eecf24a60481f371382cf2c9f4add6e54b6d216167127598de449d65c431d"
+          "sha256": "7d32e53c63bc80860f873ce0116ab2366fa53c618d46f9f8f98583cfcb1669b5",
+          "source_images": 0
         }
       ]
     },
