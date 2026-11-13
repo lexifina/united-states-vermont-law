@@ -96,10 +96,11 @@
       "url": "https://legislature.vermont.gov/statutes/title/02",
       "versions": [
         {
-          "from": "2026-11-02",
+          "from": "2026-07-01",
           "units": 87,
           "source_url": "https://legislature.vermont.gov/statutes/title/02",
-          "sha256": "50b1b3c8b7eafd2e01a576750bac292b37136fe7cbe22962a7058deb0698457a"
+          "sha256": "b43c77a964d8d7a03e897527df63b7410696b584fe48fdceb7f6322efa5cab85",
+          "source_images": 0
         }
       ]
     },
