@@ -26,7 +26,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-4` | Vermont Statutes Annotated, Title 4. Judiciary | 1 | 2026-07-01 to 2026-07-01 |
 | `title-5` | Vermont Statutes Annotated, Title 5. Aeronautics and Surface Transportation Generally | 1 | 2026-04-30 to 2026-04-30 |
 | `title-6` | Vermont Statutes Annotated, Title 6. Agriculture | 1 | 2026-11-02 to 2026-11-02 |
-| `title-7` | Vermont Statutes Annotated, Title 7. Alcoholic Beverages, Cannabis, and Tobacco | 1 | 2026-11-02 to 2026-11-02 |
+| `title-7` | Vermont Statutes Annotated, Title 7. Alcoholic Beverages, Cannabis, and Tobacco | 1 | 2026-07-01 to 2026-07-01 |
 | `title-8` | Vermont Statutes Annotated, Title 8. Banking and Insurance | 1 | 2026-11-02 to 2026-11-02 |
 | `title-9` | Vermont Statutes Annotated, Title 9. Commerce and Trade | 1 | 2026-11-02 to 2026-11-02 |
 | `title-9a` | Vermont Statutes Annotated, Title 9A. Uniform Commercial Code | 1 | 2026-11-02 to 2026-11-02 |
@@ -63,14 +63,14 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-32` | Vermont Statutes Annotated, Title 32. Taxation and Finance | 1 | 2026-10-01 to 2026-10-01 |
 | `title-33` | Vermont Statutes Annotated, Title 33. Human Services | 1 | 2026-11-02 to 2026-11-02 |
 
-The repository has 146 commits after the correction documentation append:
+The repository has 148 commits after the correction documentation append:
 
 | Commits | Kind |
 | ---: | --- |
 | 47 | first version of an act |
 | 0 | one law on its in-force day |
 | 3 | changes no amendment note explains, credited to the publisher |
-| 78 | labelled corrections |
+| 80 | labelled corrections |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
@@ -88,11 +88,13 @@ When a law gives no date of its own, the default rule applies: 1 V.S.A. section 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `b9184b1b9648dba46a4c03f0646facc565d270d51f72bf32d73f4c34c9d3168c` (40117835 bytes).
+- Corpus: sha256 `755b524c828acb83469638d2435f637da60b29dceb76908e48db73f4b8bfbdc0` (40119439 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `d203295dfee1008d4a2f6603c66bdf374c6750d4`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
+
+The Title 7 current snapshot is source-dated 1 July 2026. This uses the latest effective day printed across all 19 current chapters. All 228 retained sections agree with the original official HTML, including source punctuation; all source chapter law text agrees with the earlier official captures. The source image inventory for this snapshot is explicitly zero. Other titles and earlier consolidated editions remain under review.
 
 The Title 2 current snapshot is source-dated 1 July 2026. This uses the latest effective day printed across all 25 current chapters. All 87 retained sections agree with the original official HTML, including source punctuation; all source chapter law text agrees with the earlier official captures. The source image inventory for this snapshot is explicitly zero. Other titles and earlier consolidated editions remain under review.
 
