@@ -1,6 +1,6 @@
 # Vermont Statutes Annotated, Title 29. Public Property and Supplies
 
-29 V.S.A. · 1 versions, from 2026-11-02 (latest in force: 2026-11-02) · <https://legislature.vermont.gov/statutes/title/29>
+29 V.S.A. · 1 versions, from 2026-04-06 (latest in force: 2026-04-06) · <https://legislature.vermont.gov/statutes/title/29>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
