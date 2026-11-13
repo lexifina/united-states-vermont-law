@@ -58,7 +58,7 @@ The General Assembly's [2009 Act 20 as enacted](https://legislature.vermont.gov/
 
 On 13 November 2026, labelled corrections restored the complete printed text of 223 sections and executive orders, including 126 textual tables, source headings, notes and effective-date labels. Within a section, the publisher's subsection alternatives retain their printed effective-date labels; these alternatives are not separate historical versions. The Title 32 corrections use the source date of 1 October 2026. Other title snapshot dates remain under review.
 
-Title 26 text corrections are held because new official chapter responses differ from the retained source captures. This append retains its previously published text pending source reconciliation.
+On 13 November 2026, 28 of the 31 previously held Title 26 sections were corrected from official text; all 28 now match the official chapter responses, including 21 sections with textual tables. Three remain held because the refreshed responses contained no unambiguous section form. Across the 24 reviewed chapter pages, source images: 0; referenced: 0; omitted: 0. Title 26 current-text dating remains under review.
 
 ## What it does not show
 
