@@ -49,7 +49,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-19` | Vermont Statutes Annotated, Title 19. Highways | 1 | 2026-11-02 to 2026-11-02 |
 | `title-20` | Vermont Statutes Annotated, Title 20. Internal Security and Public Safety | 1 | 2026-11-02 to 2026-11-02 |
 | `title-21` | Vermont Statutes Annotated, Title 21. Labor | 1 | 2026-11-02 to 2026-11-02 |
-| `title-22` | Vermont Statutes Annotated, Title 22. Libraries, History, and Information Technology | 1 | 2026-11-02 to 2026-11-02 |
+| `title-22` | Vermont Statutes Annotated, Title 22. Libraries, History, and Information Technology | 1 | 2026-07-01 to 2026-07-01 |
 | `title-23` | Vermont Statutes Annotated, Title 23. Motor Vehicles | 1 | 2026-11-02 to 2026-11-02 |
 | `title-24` | Vermont Statutes Annotated, Title 24. Municipal and County Government | 1 | 2026-11-02 to 2026-11-02 |
 | `title-24-appendix` | Vermont Statutes Annotated, Title 24 Appendix. MUNICIPAL CHARTERS | 1 | 2026-11-02 to 2026-11-02 |
@@ -63,14 +63,14 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-32` | Vermont Statutes Annotated, Title 32. Taxation and Finance | 1 | 2026-10-01 to 2026-10-01 |
 | `title-33` | Vermont Statutes Annotated, Title 33. Human Services | 1 | 2026-11-02 to 2026-11-02 |
 
-The repository has 126 commits after the correction documentation append:
+The repository has 129 commits after the correction documentation append:
 
 | Commits | Kind |
 | ---: | --- |
 | 47 | first version of an act |
 | 0 | one law on its in-force day |
 | 3 | changes no amendment note explains, credited to the publisher |
-| 64 | labelled corrections |
+| 66 | labelled corrections |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
@@ -88,7 +88,7 @@ When a law gives no date of its own, the default rule applies: 1 V.S.A. section 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `c6fae4f90c72fbfb990132dea93796d243182a46948933fa3c15e1244d460a00` (40092381 bytes).
+- Corpus: sha256 `3de835fa373222258406a628d8064900409af05f564dc3be3c2aff6868f3c99c` (40092828 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `d203295dfee1008d4a2f6603c66bdf374c6750d4`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
