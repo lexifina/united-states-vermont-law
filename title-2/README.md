@@ -1,6 +1,6 @@
 # Vermont Statutes Annotated, Title 2. Legislature
 
-2 V.S.A. · 1 versions, from 2026-11-02 (latest in force: 2026-11-02) · <https://legislature.vermont.gov/statutes/title/02>
+2 V.S.A. · 1 versions, from 2026-07-01 (latest in force: 2026-07-01) · <https://legislature.vermont.gov/statutes/title/02>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
